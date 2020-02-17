@@ -19,7 +19,7 @@ are located at the separete topics found on the Doc.
 
 17.02.2020
 REPORT
-==============================================================================
+========================================================================
 Tuesday 11.02.2020
 +Continued Work from the scrum session which included
 	-Design of the Login & Register page forms (Using Adobe XD)
