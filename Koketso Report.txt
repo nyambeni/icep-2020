@@ -106,10 +106,11 @@
 -Coded the Login search validation
 -Pushed to git
 
-18/02/20
+18/02/2
 
 -Met aith the scrum master "Calvin" to discuss the problems we have in the group
 -Met with the group and discussed about the things we'e lacking on and to choose a person who will be responsible for trello and slack
+-
 -
 
 
