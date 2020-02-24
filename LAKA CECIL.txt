@@ -105,7 +105,7 @@ Student Number:216166329
     
     20 Feb 2020
    * We were connecting all backends with frontend
-   * we were preparing for presentation that took place in friday
+   * we were preparing for presentation that took place in friday.
 
     21 Feb 2020
-   * I couldn't show up because i was sick on friday
+   * I couldn't show up because i was sick on friday,but i was done with the task that was assigned to me.
