@@ -58,6 +58,7 @@ Attended Scrum session from 8am to 4 pm
 I started the research on my group project which is Resident Management System which students and resident owners 
 can register and login to book or insert their residences into the system.
 
+week 4
 10 February - (Monday)
 
 we begin the daily scrum and i was assigned to do the back-end part for the admin page.
@@ -79,5 +80,27 @@ I begin by coding the forgot password back-end for the landlords.
 
 i edited the coding of the forgot password back-end for the landlords.
  
+week 5
 
+17 February - (Monday)
 
+The second week of the Sprint begun
+I did research on Angular and Ionic.
+
+18 February - (Tuesday)
+
+I did a research on the code to send an email to a user
+if the user has forgot the password.
+
+19 February - (Wednesday)
+
+I added the email function to the forgot password back-end for students.
+
+20 February - (Thursday)
+
+I added the email function to the forgot password back-end for the landlords.
+ 
+21 February - (Friday)
+
+The end of the first Sprint
+We presented the to the groups 
