@@ -76,23 +76,103 @@ DAY9 Office.
 
 
 04 Febuary 2020
-DAY9 Office.
+DAY10 Office.
 
 - Resumed with presentations till we knock off.
 
 05 Febuary 2020
-DAY9 Office.
+DAY11 Office.
 
 - they grouped us in top our ultimate groups.
 
+06 Febuary 2020
+DAY12 Office.
+
+-I was attending the agile42 workshop throughout the day.
+
+07 Febuary 2020
+DAY13 Office.
+
+-Was researching about the system giftbox. It was a short day, knocked off early.
+
+10 Febuary 2020
+DAY14 Office.
+
+- On this day we met with our BA's to finilize product backlog for our initial sprint, we manage to produce 
+a full product back then we selected some of user functions only.
+
+11 Febuary 2020
+DAY15 Office.
+
+- I retrived our repo from our backend master then started with login task. i ddint manage to finish but i pushed to git.
+
+12 Febuary 2020
+DAY16 Office.
+
+- I pulled the code in the mornig then resumed with the task and i finished login.
+- We had a daily stand up along with our BA's to present our tasks at trello.
+- Started with Adding to cart and wishlist.
+
+13 Febuary 2020
+DAY17 Office. 
+
+- I continued with my tasks and we manage to connect our back end with front end.
 
 
-“Add to Cart” – Means a call for actions to help in increasing the average items per order. Thus improving the share of wallet per order
-“Add to Wishlist” – Reduces the shopping cart abandonment and improves overall funnel. Also creates an opportunity to know the users’ interest and strike a conversation.
+14 Febuary 2020
+DAY18 Office.
 
-Adding to wishlist doesn't affect the quantity of the product added, but adding in cart does.
+- We had a half day .. i was coding add to cart with REE.
 
-Add to wishlist is more like day-dreaming about the product that you'd wish to buy.                                                                                                                         
+17 Febuary 2020
+DAY19 Office.
+
+- We had a meeting with our team scrum master to discuss progress of the sytem,
+ how  far are we and what challenges are we facing.
+-i did a reseach on add wishlist.
+
+18 Febuary 2020
+DAY20 Office.
+
+- We had a scrum session with the master to check progress of the system.
+- i finished my code then sended to git.
+
+19 Febuary 2020
+DAY1 Office.
+
+- I did a on validation and authentication , but since we ddnt include it our first will have to add it on our next sprint.
+-i pushed everything to git then master merged the code, we tested it.
+
+20 Febuary 2020
+DAY1 Office.
+
+- Our BA's came to our office we spent the entire day preparing for presentation and testing the system also.
+
+21 Febuary 2020
+DAY1 Office.
+
+- We had a presentation , we knocked off early due to loaad shedding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
 
 
 
