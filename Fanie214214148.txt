@@ -38,3 +38,15 @@ I was watching tutorials for uploading files for an application form
 -coding the backend of the application page of our ICEP website / uploading files code 
 14-02-2020
 -worked together with my team trying to connect the front and backend
+17-02-2020
+-we had our scrum session t discuss the way forward
+18-02-2020
+-we worked on our project
+19-02-2020
+-we worked on uur project( connecting the back and front end)
+-our BAs teasted the system
+20-02-2020
+-We had a scrum session / lessons with people from agile 42
+21-02-2020
+-THe end of our first sprint
+-We presented our projects to the ICEP leaders
