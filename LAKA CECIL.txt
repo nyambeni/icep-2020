@@ -84,10 +84,28 @@ Student Number:216166329
      12 Feb 2020
      * i implemented  validation for registration page 
 
+
      13 Feb 2020
      * i added some functionality to the buttons on student registration page
 
-     14 Feb 2020
+     
+   14 Feb 2020
 
     *we try to  merge all the front end we created into a single application, and also implemented routing to navigate within different pages.
      
+    17 Feb 2020
+    * I added styling to the student registration page including pictures.
+
+    18 Feb 2020
+    *I connected student registration page with a backend using frontend API
+
+    19 Feb 2020
+   
+    * I tried to register for the first time to ensure that frontend can communicate with backend and store the values inside the database
+    
+    20 Feb 2020
+   * We were connecting all backends with frontend
+   * we were preparing for presentation that took place in friday
+
+    21 Feb 2020
+   * I couldn't show up because i was sick on friday
