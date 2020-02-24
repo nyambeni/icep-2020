@@ -22,21 +22,94 @@
 -Keamogestwe and I worked together again to create the the page that was given to one of our member that has left.
 -We also did the research about connecting the pages and to connect frant-end to back-end.
 
-31 January 2020
+31 February 2020
 
 -We went through the system as a team to verify errors and fixed were it needed to be fixed.
 -We had a meeting as a team to give updates on our project.
 
-3 January 2020
+3 February 2020
 
 -Monday was the day of presantation and I was connecting the pages and liked the arconding to their buttons and links.
 -I attended the presentation for the other teams and only 2 team were able to present due to load shedding.
 
-4 January 2020
+4 February 2020
 
 -We had a meeting with our Bussines Analists to discuss about our presentation and we stated posible questions that the congrigation would ask and came up with solutions.
 -We had our presentation successfull and closed the projects.
 
-5 January 2020
+5 February 2020
 
 -Were divided into new teams and given new project to work on as a team
+
+6 February 2020
+-I was attending the agile42 workshop throughout the day.
+
+7 February 2020
+-Was researching about the system giftbox. It was a short day, knocked off early.
+
+
+===========================================================================================================================================================
+
+10 February 2020
+-On this day we meet with our BA’s to draft product backlog for our current project (GiftBox).
+-It was a success and we spilt the task in to sprint one.
+-The tasks that was assign to me it was back end in place order and the navigataion bar fro front end. 
+-And we also created repositories with a structure for the front end.
+
+11 February 2020
+-I pulled the structure that was pushed yesterday and started coding.
+-Started coding a place order and it was almost done.
+-I pushed the in code to git in the end of day.
+
+12 February 2020
+-I pulled the structure that was pushed yesterday and started coding.
+-Started coding a place orderand it was done.
+-We had a daily stand up with our BA’s presenting our progress in trello. 
+-I pushed the in code to git in the end of day.
+
+13 February 2020
+
+-We continue coding and there was some changes that we needed in my code and I made them I was done with the code. 
+-Updated trello.
+-We meet with our BA’s to discuss the progress of the system and it was a success.
+-We connected the front end with the back end and it was a success
+
+14 February 2020
+-We had a half day 
+-I was coding with Bee there add to cart.
+
+
+===========================================================================================================================================================
+
+17 February 2020
+
+- We had a meeting with our team strum master and her hand to descuss the progress of the team and the matters we meet 
+ and came up with resolutions
+- I managed connect place order front to the back end.
+
+18 February 2020
+
+- we had a strum with our team to check the progress of the project and the challeges we meet along the project.
+- I did my reseach on fixing my task to make it corespond to the project.
+- We had a meeting with Calvin based on the strum we had on the privious day.
+- After that meeting I came back to meet with our devlopers to give them knoledge on how we were going to work onwards..
+- We were introduced to a new team member and i explained to him about the project and gave him a task to research on it.
+  
+19 February 2020
+
+- I merged the project
+- And I conneceted all the pages accordingly and liked them to the correct stages.
+- I also facilitated the progress of our new member on angular to make him familiar with the language.
+
+20 February 2020
+-The other teams went to Agile class and our BA's came to our office to view the project and stated the thing we still had to do
+- I connected a few pages to the back end on our project.
+
+21 February 2020
+
+- We had a presentation day on what have we done for our first sprint.
+- We prepered for thwe presantation and did overview of the system.
+- Our Presentation ran successfull
+
+
+ 
