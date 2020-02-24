@@ -106,12 +106,30 @@
 -Coded the Login search validation
 -Pushed to git
 
-18/02/2
+18/02/20
 
 -Met aith the scrum master "Calvin" to discuss the problems we have in the group
 -Met with the group and discussed about the things we'e lacking on and to choose a person who will be responsible for trello and slack
+
+19/02/20
+
+-Getting busy with Http Client, connecting front-end with back-end
+
+20/02/20
+
+-Preparing for tomorrow's presentation.
+-checking back-end for the last time before the presentation day come
+
+21/02/20
+
+-Presentation..
+
+
+24/02/20
+
 -
--
+
+
 
 
 
