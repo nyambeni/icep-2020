@@ -74,5 +74,20 @@ I was watching tutorials for connecting admin page to the database
 -coding the front end of the application page of our ICEP website  
 
 14-february-2020
+worked together with my team trying to  create connection stringsto the front and backend
 
--worked together with my team trying to  create connection stringsto the front and backend
+17-february-2020
+-we had our scrum session t discuss the way forward
+
+18-february-2020
+
+-we worked on our project
+
+19-february-2020
+-we tested our system using postman
+
+21-february-2020
+
+-We presented our projects to the ICEP leaders
+
+
