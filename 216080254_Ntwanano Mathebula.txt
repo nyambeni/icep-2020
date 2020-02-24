@@ -88,6 +88,44 @@ Monday, 10 February 2020
 The day we were told to push our reports on git. 
 
 
+Tuesday, 11 February 2020
+=========================
+Met with all of my team to give each member a task and start to do that task i was assigned to do.
+
+Wednesday, 12 February 2020
+===========================
+This is the day that we did a daily stand up, and tell them what are we busy with.
+Thursday, 13 February 2020
+===========================
+I continued with the task i was given to do, still busy with the connection to the database.
+
+Friday, 14 February 2020
+==========================
+This is the day where i tried to connect back end and front end.
+
+Monday, 17 February 2020
+===========================
+The day for our daily scrum with the whole team.
+
+Tuesday 18 February 2020
+===========================
+I connected to the actual database of our system and it was connected successfully.
+
+Wednesday, 19 February 2020
+===========================
+I connected Back end with front end and was communicating.
+
+Thursday, 20 February 2020
+===========================
+I pushed my work to git and start to get ready for the comming presentation.
+
+Friday,21 February 2020
+===========================
+Presantation day of our system(RMS).
+
+Monday, 24 February 2020
+==========================
+The day to submit my report and start with the second spint.
 
 
 
