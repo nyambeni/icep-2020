@@ -82,3 +82,24 @@ started with the following:
 -------------------
 - started with the admin dashboard with my collueges
 
+17 February 2020
+-------------------
+-Manage to complete the landing page which included the components such as side navigationbar and also tabs .
+-we as a group had a daily scrum before the end of the shift.
+18 February 2020
+------------------
+-Merged our project and started with connecting backend and the frontend of the system.
+-I was able to get information from our populated database.
+-Attended the daily scrum with my team, we discussed about the progress of our tasks as a whole.
+19February 2020
+-----------------
+-Working on the connection of login part to the backend.
+-During the daily scrum, we discussed on what is left to be done and how we should help on tasks that arent done yet.
+20 February 2020
+----------------
+-Attended the Agile 42 presentation about scrum.
+-Attended the team's daily scrum,we discussed on our progress and what is left before presentation day.
+21 February 2020
+-----------------
+-Presentation day of the progress of our system.
+-Attented the team's daily scrum where we discussed what wentwrong, what was right and what was needed to improve for our next sprint.
