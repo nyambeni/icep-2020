@@ -39,3 +39,13 @@ I conducted further research on what exactly the admin side of the vendors must 
 All the methods I try so far seem to elude the final way that I aim to achieve. Admin panel is a good challenge for me and I am confident on conquering my obstacles.
 14 February
 We had some bits of our system up and running, they are missing the pieces being done by other members. We did some overtime to cover up for lost time and also I managed to get an admin panel up and running. It needs further fine tuning and a platform for me to build on from there.
+17 February
+Did some tutorials to further dive into ionic framework, and how it integrates with angular. Held team scrum at the end of the day to keep our business analysts updated with our progress and also to get their feedbacks.
+18 February
+Did some coding of the frontend admin but still found difficulties. I communicated with my team the difficulties I am having and they agreed to help me out.
+19 February
+Created new repository on git to add even the backend people so that they can have all information they need when connecting both front and backends into one. Held team daily scrum towards the end of the day to keep everyone updated about our progress and difficulties faced so far.
+20 February
+We attended the agile methodology workshop by agile24, we were divided into groups and given activities and tasks, this really helped to brush up on our knowledge about agile and also highlighted the importance of teamwork and how we can adapt in different team dynamics.
+21 February
+We did our presentation for the first sprint as a team, we collected feedback from our leadership and fellow colleagues. We also held a team meeting to do a sprint retrospective and to reflect upon the areas that need immediate addressing and to identify areas which we can improve upon. I still need to work on my admin frontend to make sure we have a product thats ready for presentation in the next sprint.
