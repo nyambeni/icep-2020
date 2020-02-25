@@ -77,3 +77,65 @@ O7 February
 Researching about the gift box system
 And we are waiting for the full description of the system how the
 system suppose to look like from the client.
+
+10 February report
+
+Starting our first sprint Developers and BAs are planning product
+backlog of the system. What exactly is needed on the system.
+Our system is giftbox application. So we looking what exactly we going
+to have for the entire system
+
+11 February report
+
+Researching about the system and also updating the Trello,
+allocating work on the Trello
+
+12 February
+
+Continuation of implementation and daily meetings..
+We having a daily stand up with our scrum master.
+He wants to know how far are we with our work
+
+13 February
+
+I'm done with the landing page but just to find out that some of my
+colors are not the same with the one BA used.. And another
+challenge is my slides how is not behaving the way I want.. So I had
+to change some of the stuff to go along with everyone.
+
+14 February report
+
+Starting over my landing page and asking some pictures from one of
+the BA members
+
+17 February report
+
+We are merging the system backend and frontend and finishing up things for friday presentation
+I also want some pictures to place them on the landing page
+Fixing the slideshow 
+
+
+18 February report
+
+connecting backend and frontend and the database also changing some variable so that backend and database it can crosspond with each other
+
+19 February report
+
+Continuing with connection and error handling everything is not going well but hopefully will go through
+
+20 February report
+
+Some of the members are going for scrum session
+We are fixing add to wish and add to cart buttons and the pages
+We are fixing our connection and we're having a bit challenge hope will be okey before we knock off
+We are having a daily talk with our BAs and see if everything is on point
+
+21 February report
+
+Presentation day of all groups
+We presented well and our system is running well but we need to fix some of the stuff
+ 
+
+
+
+ 
