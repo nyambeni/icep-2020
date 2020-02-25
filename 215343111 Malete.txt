@@ -77,3 +77,19 @@ continued with CRUD methodology and got stuck when coming to connect the front-e
 14 february
 I completed my given task(back-end for forgot-reset password) and moved to help other members of the team to uplift the working spirit.
 I'm also still working on the logic of forgot-reset password.
+
+17 february
+contiued to brush up every given task for the backend impementation, and at the end of the day we held a team meeting to keep update of 
+where are we headed as a team, also point out a few challenges we are facing.
+
+18 february
+I looked into a few tutorials to get a clear idea of what am i faced with, and also to search for more strategies on how to tackle my challenges
+
+19 february
+I continued with coding to make sure everything is operating smooth with no flaws, but still faced errors which i managed to fix.
+
+20 february
+We attended Agile24 workshop to learn more on how SCRUM works and can benefit us as a team which took us the whole day 
+
+21 february
+It was presentation day whereby each team presented the first sprint of their respective systems
