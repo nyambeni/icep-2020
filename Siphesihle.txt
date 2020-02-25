@@ -92,3 +92,31 @@
 14/02/20
 
 -Started with student dashboard
+
+17/02/20
+
+-Editing student dashboard 
+-Daily scrum with our BA's
+
+18/02/20
+
+-Trying to merge work
+-Trying to connect back-end with front-end
+-Helped Petronela creating a link for the forgot password on the log in page
+
+19/02/20
+
+-finished student dashboard with no functionality
+-created a profile page and linked it with the dashboard
+
+20/02/20
+-finished profile page
+-Started with about us page
+
+21/02/20
+
+-Presented system
+
+24/02/20
+
+-
