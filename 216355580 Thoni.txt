@@ -1,14 +1,14 @@
 216355580 Maleka TJ
-27 January 2020 ‚Äì 7 February 2020 Report
+27 January 2020 ñ 7 February 2020 Report
 
 
 27 January 2020:
 * Groups were formed between developers and business analysts to come up with a system to complete for the next 5 days.
-* We were combined with BA‚Äôs to brainstorm ideas. We ended up choosing a system called ‚ÄúLost and Found‚Äù which could be used to retrieve lost items by uploading a picture of the item you found then describing it in a description form. The person who has lost an item can log their lost item in order to see if it might be on the database of lost items. 
+* We were combined with BAís to brainstorm ideas. We ended up choosing a system called ìLost and Foundî which could be used to retrieve lost items by uploading a picture of the item you found then describing it in a description form. The person who has lost an item can log their lost item in order to see if it might be on the database of lost items. 
 * During the day I was learning the basic commands of gitbash and working with github, also about mongodb.
 * Later on we presented the idea to our respective icep supervisors.
 28 January 2020:
-* Tasks were assigned on Trello by BA‚Äôs.
+* Tasks were assigned on Trello by BAís.
 * As developers we choose the activities to be completed in order to develop a full system.
 * I was doing the backend of the login page.
 * Started researching about node.js, mongodb, basically MEAN.
@@ -21,7 +21,7 @@
 * Created the database data using xampp and myphpadmn.
 * Connected the backend login page to the login page that was created by Lethu, which was quite a challenge we had to work together trying to figure out the code in angular used to connect the database.
 31 January 2020
-On this day it mostly us finalizing every task that was needed to be completed. We meet with the BA‚Äôs to discuss further more the implications we had with their documentation. Tensions were high I wont lie cause of miscommunication. We called it a day very early cause there was technical implications.
+On this day it mostly us finalizing every task that was needed to be completed. We meet with the BAís to discuss further more the implications we had with their documentation. Tensions were high I wont lie cause of miscommunication. We called it a day very early cause there was technical implications.
 3 February 2020:
 * As a group we were in panic mode cause we were not yet done with the css of the whole project and somes connection to the frontend and backend were having problems.
 * Presentations started for the first batch of groups to present their systems.
@@ -32,8 +32,35 @@ On this day it mostly us finalizing every task that was needed to be completed. 
 Researched about adobe xd and ionic 4
 Groups were created for a new system.
 I was assigned to be a frontend developer on a system called giftbox.
-Throughout the day we were brainstorming ideas with BA‚Äôs.
+Throughout the day we were brainstorming ideas with BAís.
 6 February 2020
 I was attending the agile42 workshop throughout the day.
 7 February 2020
 Was researching about the system giftbox. It was a short day, knocked off early.
+10 February 2020
+* Scrum Session: Product backlog of the giftbox system
+* First sprint was had where we declared the pages and tasks to be completed in two weeks
+* The sprint consisted of 7 to do items: Registration, Login, Landing page, Place an order, Add to cart, Wishlist, Search/dropbox
+* I took on the task of doing the wishlist (add to favourites) frontend.
+11 February 2020
+* Created the wishlist component, then worked on creating the add heart icon on to the landing page of which I still had to wait for from one of our members who was in charge of doing this task.
+* Did a lot of research on how to archieve this add to favourites icon
+* We had a daily standup as a team.
+12 February 2020
+* I was in charge of stack communication and updating of tasks on trello
+* I created a new repo as a master and added contributors from my team who where part of doing the frontend.
+* Created a new angular project file
+* Every contributor cloned from the github link
+18 February 2020
+* Had issues with the counter that indicates how many items in the wishlist on the navbar.
+* Just created a hard code of the counter and linked the navbar component.ts to the landing component using functions, it was a tough task.
+* Had a daily standup
+* Pushed to git.
+
+
+20 February 2020 
+* Registered AWS
+* Finalized the wishlist page but just hardcoded
+* Successfully created the wishlist counter and since add to cart duties were not done, I add the counter on there to0.
+21 February 2020
+First sprints presentation. *Had technical issues during presentation, like the displaying the webpage on any display.
