@@ -74,3 +74,24 @@ i continued with the CRUD code.
 14 FEBRUARY, friday
 i attempted to connect the backend and the front end.
 
+17 FEBRUARY , monday
+i edited and subsequently modified the backend code.
+and i further done the daily scrum with our BAs.
+	
+18 FEBRUARY , tuesday
+we tried to merge all the codes.
+we tried to connect the back and frontend of login.
+19 FEBRUARY , wednesday
+
+on this date ,i finished up the coding of the login backend.
+
+20 FEBRUARY , thursday
+the preparation of the RMS presantation was taking taking place.
+
+21 FEBRUARY , friday
+friday,it was the first day of evaluation of the RMS .
+
+24 FEBRUARY , monday
+
+
+
