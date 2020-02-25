@@ -77,4 +77,25 @@
 •	We had a half day 
 •	I was coding with Bee there add to cart.
 
+17 Feb. 20
+
+•	On this day we were merging the system and doing the error headlining.
+ 
+18 Feb. 20
+
+•	On this day we were connecting the back end and the front end.
+
+19 Feb. 20
+
+•	On this day we continue with the connection of the system because we were having some challenges to connect the system but at the end of the day we manage to connect successfully. 
+ 
+20 Feb. 20
+
+•	On this day some of the team went to scrum session and we were left to continue coding the system.
+•	And we meet with our BA’s to communicate feather more the system. 
+
+21 Feb. 20
+
+•	On this day we finalized our work and we presented the system.
+
 
