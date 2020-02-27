@@ -61,3 +61,38 @@ we went to a SCRUM workshop were we learned about scrum and how to work in teams
 7 February 2020
 
 continued with IONIC RESEARCH 
+
+9 February 2020
+
+Created a landing page of the RMS with ionic 
+
+10 - 11 February 2020
+
+added a side menu bar with its functionality to click buttons and navigate through the pages 
+
+12 February 2020
+
+Did a daily scrum
+
+13 February 2020
+
+I met with our BAs for an hour to help them with the wireframes ,how the App should look and what we should look at when designing the front end
+
+14 February 2020
+ 
+started implementing the changes to resamble the froint-end  on the wireframes
+
+17 February 2020
+
+my laptop had problems so i could not load a background picture .
+
+18 - 19 February 2020
+
+Created a Contact page on the RMS App
+ 
+20 - 21 February 2020
+
+added functionality to the landing page because we had a presentaion on the following day on the 21st February 2020
+
+
+ 
