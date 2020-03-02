@@ -111,3 +111,24 @@ Student Number:216166329
 
     21 Feb 2020
    * I couldn't show up because i was sick on friday,but i was done with the task that was assigned to me.
+
+   24 Feb 2020
+   *we met as a group for daily scrum to discuss our progress and challenges
+
+   25 Feb 2020
+
+   *As a request from the group i noted down the changes that they needed for student registration 
+   *i started to implement those changes such as adding student numnber ,student ID and campus location on
+    the registration form
+
+   26 Feb 2020
+   *There was a strike so we didn't attend work 
+
+   27 Feb 2020
+
+   *On this day i started to  develop front end application page for student to apply for accomodaition
+   *i implemented some buttons for appliying
+   
+  28 Feb 2020
+  * i was still busy with student registration form , adding some fuctionality to some of the buttons
+
