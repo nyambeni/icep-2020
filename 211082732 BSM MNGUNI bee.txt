@@ -138,20 +138,35 @@ DAY20 Office.
 - i finished my code then sended to git.
 
 19 Febuary 2020
-DAY1 Office.
+DAY21 Office.
 
 - I did a on validation and authentication , but since we ddnt include it our first will have to add it on our next sprint.
 -i pushed everything to git then master merged the code, we tested it.
 
 20 Febuary 2020
-DAY1 Office.
+DAY22 Office.
 
 - Our BA's came to our office we spent the entire day preparing for presentation and testing the system also.
 
 21 Febuary 2020
-DAY1 Office.
+DAY23 Office.
 
-- We had a presentation , we knocked off early due to loaad shedding.
+- We had a presentation , we knocked off early due to load shedding.
+
+25 Febuary 2020
+DAY24 Office.
+
+- We reviewed our project and tried to update pages on our project, we met with our BA's also.
+
+26 Febuary 2020
+DAY25 Office.
+
+-The protest of tut disturbed us, we cancelled everything due to strike.
+
+27 Febuary 2020
+DAY26 Office.
+
+-THERE WAS STRIKE...
 
 
 
