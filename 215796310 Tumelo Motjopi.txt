@@ -103,3 +103,29 @@ started with the following:
 -----------------
 -Presentation day of the progress of our system.
 -Attented the team's daily scrum where we discussed what wentwrong, what was right and what was needed to improve for our next sprint.
+
+24 February 2020
+-----------------
+-in the morning of a Monday, we gatheredas a group to do scrum.
+-I worked on the Vendor admin with one of collegues.
+- We had the afternoon scrum.
+
+25 February 2020
+----------------
+-Continued with the admin page with my colluege.
+- Made a little more research about angukar material
+-we was desturbed by the  strike and we had to be dismissed .
+
+26 February 2020
+----------------
+-the strike continued.
+
+27 february 2020
+----------------
+-I worked on connecting the crud part of the front to the backend.
+-Created forms and pages reguired on the admin.
+
+28 february 2020
+----------------
+-in the morning ive continued on working in the admin page.
+-Because of strike we were dismissed early.
