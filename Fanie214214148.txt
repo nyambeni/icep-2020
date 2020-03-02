@@ -43,10 +43,20 @@ I was watching tutorials for uploading files for an application form
 18-02-2020
 -we worked on our project
 19-02-2020
--we worked on uur project( connecting the back and front end)
+-we worked on our project( connecting the back and front end)
 -our BAs teasted the system
 20-02-2020
 -We had a scrum session / lessons with people from agile 42
 21-02-2020
 -THe end of our first sprint
 -We presented our projects to the ICEP leaders
+24-02-2020
+-we had our daily scrum and assigned tasks
+25-02-2020
+-there were disruptions due to strike
+25-02-2020
+-we did not report to work due to the strike
+26-02-2020
+-we reported to work and our leaders recommended new changes to add to our project(ICEP website)
+27-02-2020
+-did not report to work
