@@ -191,7 +191,7 @@ we went to agile 42 training session for scrum
 we met with the team after the session to discuss the presentation 
 we will have tomorrow and the difficulties we had
 
-21`/02/2020 friday
+21/02/2020 friday
 we came to  work earlier than usual to test our project. 
 we started our day with morning prayer session.
 we had a presentation for the first sprint
@@ -200,11 +200,36 @@ we had a presentation for the first sprint
 24/02/2020 monday
 
 we started the day with morning prayer
-we submitting our reports.
+we submitting our reports..
+we had our scrum retrospective meeting with our BAs
+started with sprint 2 and allocated tasks to be done
+
+
+25/02/2020 tuesday
+we went home early because of the strike
+started with the sprint 2 work research at home
+
+
+26/02/2020 wednesday
+strike we did not come to work but we worked on our own and shared the work online
+carried on with the research
 
 
 
+27/02/2020 thursday
+we showed our BAs how to install the IDEs in thier machines and we carried on working 
+started with the applying of the restaurant
+and carried on learning the front-end side
 
+
+28/02/2020 friday 
+i finished the application side back-end and it needs testing 
+started to do research on the uploading documents when restuarant is applying to use our app.
+
+
+02/02/2020 Monday
+today i finished the uploading of documents file 
+i still need to work on the testing of the applying back-end
 
 
 
