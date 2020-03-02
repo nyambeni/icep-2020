@@ -49,18 +49,3 @@ Created new repository on git to add even the backend people so that they can ha
 We attended the agile methodology workshop by agile24, we were divided into groups and given activities and tasks, this really helped to brush up on our knowledge about agile and also highlighted the importance of teamwork and how we can adapt in different team dynamics.
 21 February
 We did our presentation for the first sprint as a team, we collected feedback from our leadership and fellow colleagues. We also held a team meeting to do a sprint retrospective and to reflect upon the areas that need immediate addressing and to identify areas which we can improve upon. I still need to work on my admin frontend to make sure we have a product thats ready for presentation in the next sprint.
-
-24 February 2020
-We gathered as a group to do scrum. We also attended a meeting for the lead team group in which we shared our experiences and difficulties and situations which we faced in our own groups and how we solved or handled those challenges. I worked on the Vendor admin with one of my colleagues. We had the afternoon scrum.
-
-25 February 2020
-Continued with the admin page with my colluege. Made a little more research about angular ionic. we were disturbed by the strike and we had to be dismissed .
-
-26 February 2020
-The strike continued.
-
-27 february 2020
-started doing tutorials of ionic to help me understand the concepts and how to use them according to our project demands.
-
-28 february 2020
-In the morning ive continued on working in the tutorials and starting to get a better understanding. Because of strike we were dismissed early.
