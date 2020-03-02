@@ -64,3 +64,17 @@ Was researching about the system giftbox. It was a short day, knocked off early.
 * Successfully created the wishlist counter and since add to cart duties were not done, I add the counter on there to0.
 21 February 2020
 First sprints presentation. *Had technical issues during presentation, like the displaying the webpage on any display.
+
+24 February 2020
+* Addressing of second sprint with BA team members.
+* We discussed that we won’t start the second sprint we will just perfect the first sprint tasks.
+* Since I oversaw doing the wishlist page I continued doing that task.
+* At the end of the day we pulled the new merged folder to work on.
+* Did research on the aligning screen size on any monitor code.
+25 February 2020
+* I continued doing the wishlist page research
+* There was load shedding and strike on this day.
+26 February 2020 - 28 February 2020
+* There was strike the whole three days.
+* Did some more research during the three days but it was an unproductive week.
+
