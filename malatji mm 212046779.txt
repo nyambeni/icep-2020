@@ -84,10 +84,23 @@ worked together with my team trying to  create connection stringsto the front an
 -we worked on our project
 
 19-february-2020
+
 -we tested our system using postman
 
 21-february-2020
 
 -We presented our projects to the ICEP leaders
+
+24-february-2020
+
+-we had our daily scrum and assigned tasks to every team members
+
+25-february-2020
+
+-there were disruptions due to strike
+
+26-february-2020
+
+-we did not report to work due to the strike
 
 
