@@ -79,5 +79,28 @@ I begin by coding the forgot password back-end for the landlords.
 
 i edited the coding of the forgot password back-end for the landlords.
  
+week 6
+
+24 February - (Monday)
+
+I tested the email token for students page but it didn't work as required , but we were interupted by a strike.
+
+
+25 February - (Tuesday)
+
+I did not come to work due to strike.
+
+26 February - (Wednesday)
+
+I did not come to work due to strike.
+
+27 February - (Thursday)
+
+I start to look for a code that i will understand
+
+28 February - (Friday)
+
+I did not report to work due to transport issues
+
 
 
