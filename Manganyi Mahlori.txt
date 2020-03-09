@@ -66,13 +66,13 @@ We are allocated to our new groups, where our group we are assigned
 to do gitfbox app.
 Also we talked with all our BA how the system should look like
 
-O6 February
+06 February
 
 Today we are learning about scrum and to understand how it works
 The lesson was all about scrum and agile methods.. How we can use
 agile on our work place.
 
-O7 February
+07 February
 
 Researching about the gift box system
 And we are waiting for the full description of the system how the
@@ -134,6 +134,47 @@ We are having a daily talk with our BAs and see if everything is on point
 
 Presentation day of all groups
 We presented well and our system is running well but we need to fix some of the stuff
+
+24 February report
+
+We're about to meet with the BAs to review all the work that is done and testing what we have on the system
+
+25 February report
+
+We are here at work but before we do anything strike disturbed us
+So the day is ruined because of strike
+
+26-28 February report 
+
+Strike
+
+2-3 March report
+
+I had to fix some stuff at home, some family matters the whole weekend i was there...
+but the work stuff never stopped, doing research and fixing my landing page.
+
+4 March report
+
+On this day i am allocated on a new group, meaning i have to drop the landing page of the Giftbox and start the new system of the other group.
+Fortunately Giftbox they gonna use my landing page that i've created.
+Our new group now we're doing the Declaration system 
+The sytem declares every item that can be used in the campus, fridge, speakers, ect, every item that has a serial number and student they will able to use in the campus
+We are using php language as a backend, and HTML/bootstrap as a frontend
+Also we started with whole group to draw everything down and the documentation
+
+With the new group we cross night to start up with the work, we find ourselves half done with the sprint one work
+On this system i'm working with backend and frontend fullstacker.
+
+05 March report
+
+In the morning we're going home because we were here the whole night busy working, so we're not working today
+
+06 March report
+
+Declaration group meet up to review the work that has been done so far
+We found out that some of the stuff the BAs they don't like so we have to change it and do it in the way that we all agrees
+Also we're having a daily meet
+ 
  
 
 
