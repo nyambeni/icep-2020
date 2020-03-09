@@ -104,3 +104,37 @@ I added the email function to the forgot password back-end for the landlords.
 
 The end of the first Sprint
 We presented the to the groups 
+
+
+24 february - (Monday)
+i had a meeting with my group, it was about scrum retrospective regarding Sprint 2 tasks allocation, and
+we also had a talk about how did our previous presentation go.
+
+25 february - (Tuesday) 
+TUT students had a strike, so we were told to leave the workplace for our safety.
+
+26 february - (Wednesday)
+did not report for work due to strike
+
+27 february - (Thursday)
+we had an agreement with the team that we connect our front-end with the back-end, so we experienced errors...
+
+28 february - (Friday)
+continued with connecting the two but we left work early.
+
+02 March - (Monday)
+i came to a realization that user authentication was not really complete, so i had to run back to work on it again
+
+03 March - (Tuesday)
+i worked on the backend for the forget and reset password which i covered 3/4 of the task  
+
+04 March - (Wednesday)
+I was changed into  another group to do another system, and i started to learn php.
+
+05 March - (Thursday)
+
+i coded the index page using php.
+
+06 March - (Friday)
+
+i did some research on how to validate user data using php. 
