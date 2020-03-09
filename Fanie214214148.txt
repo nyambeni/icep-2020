@@ -60,3 +60,16 @@ I was watching tutorials for uploading files for an application form
 -we reported to work and our leaders recommended new changes to add to our project(ICEP website)
 27-02-2020
 -did not report to work
+02-03-2020
+-We worked on the system
+-I created a project page for the ICEP website 
+03-03-2020
+-I worked on the website with my team trying to connect the back and frontend
+04-03-2020
+-I was moved from the project i was working on to a new project and we immediately worked on it
+05-03-2020
+-We worked on the new project/syastem
+-I created the login page and i did the validation for it
+06-03-2020
+-Some of our colleagues went to the hackathon and we continued working
+
