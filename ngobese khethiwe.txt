@@ -4,6 +4,7 @@ Student Number:215520960
                      
                              
 
+
   21 January 2020
    *Mr purutsi introduced the ICEP and had a guest speaker for project management.
   *They were introducing the softwares that we going to use for coding, communicating and sending or uploading the system ,such as:
@@ -83,5 +84,57 @@ Student Number:215520960
        * I continued with validation 
 
       14 Feb 2020
-       *I was still doing the validation .
+       *I was still doing the validation.
+      
+      17 Feb 2020
+       *we had a daily stand up the business and developer to discuss about the progress of the system
+        and for those who still busy with their task they had to confirm when will it be done since 
+        the presantation is in the few days.
+       *the progress for my task was 80%.
+       
+       18 Feb 2020
+        *We ha a daily stand up and we found that the only task that is not done is the admin page both the backend and frontend. 
+         we came up with the solution that those who are doing frontend and backend must work together on the admin page.
+
+       19 Feb 2020
+        *i was done with my task and i went to work with the person who was doing admin page.
+
+       20 Feb 2020
+        *We had all-day scrum with the agile 42 people. After we had a meeting with my group.
+
+       21 Feb 2020
+        *i didn't come to wrok.
+
+       24 Feb 2020
+        *i didn't come to work.
+       
+       25 Feb 2020
+        *when i was about to start my task, students start to strike and they chased us out the office.
+
+       26 Feb 2020
+        *it was a day off.
+
+       27 Feb 2020
+        *it was a day off.
+
+       28 Feb 2020
+        *it was a day off.
+       
+       02 March 2020
+        *We meet as a group and discuss the progress of the system. 
+        *I promised the group that i will finish my task(view order history) on the thursday 02:PM.
+
+       03 March 2020
+        *i was working on my task.
+        *it was displaying the information of all customers instead of one customer.
+
+       04 March 2020
+         *Our BA' came to check the progress for my task and i was still strugling to display the information of the customer.
+       
+       05 March 2020
+        *i was working on the task that i was assigned to.
+
+       06 March 2020
+        *for the first session i was searching for help on youtube and it was giving me the errors.
+
      
