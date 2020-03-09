@@ -133,3 +133,28 @@
 27/02/20
 
 -Could not make it to work due to strike and there not being buses.
+
+02/03/20
+
+-SCRUM meeting 
+-discussed last sprint and things we did not finish
+-spoke about adding more things to the dashboards
+
+03/03/20
+
+-started with edit page
+-trying to connect to json placeholder to test data connection
+-reading up on connection and API
+
+04/03/20
+
+-connected with json placeholder to get data
+
+05/03/20
+
+-Met with our BA's to discuss a couple of issues we had with the wire frames
+-Editing student dashboard
+
+06/03/20
+
+-research on how to upload files
