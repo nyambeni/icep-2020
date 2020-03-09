@@ -106,5 +106,27 @@ protest was in progress.
 28 FEBRUARY , friday
 protest was in progress.
 
+02 MARCH , monday
+i had scrum meeting with our Business analysts.
+we disccussed the previous sprint with the purpose of rectifying and correcting 
+what was not suppose to had been done
+
+03 MARCH , tuesday
+i implemented the changes we discussed during scrum and i modified the code at the backend.
+
+04 MARCH , wednesday
+i was coding and trying do understand the code even better.
+
+05 MARCH , thursday 
+on this date ,mr Nyambe introduced json web token.
+
+06 MARCH , friday
+i started to code using sessions and tokens.
+
+
+
+
+
+
 
 
