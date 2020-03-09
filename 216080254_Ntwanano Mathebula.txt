@@ -152,9 +152,21 @@ Tuesday, 03 March 2020
 I came to work and Submitted my report, and continued with 
 the task am assigned to do.
 
+Wednesday, 04 March 2020
+==========================
+I continued coding and try to do rectify my mistakes.
 
- 
+Thursday, 05 March 2020
+==========================
+Checked my code and try to connect it to the database and test it on postman.
 
+Friday, 06 March 2020
+==========================
+Tried to connect with front end to see if it communicates.
+
+Monday, 09 March 2020
+==========================
+Submitted my report and continued with the work.
 
 
 
