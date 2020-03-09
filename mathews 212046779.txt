@@ -109,4 +109,19 @@ I was watching tutorials for connecting admin page to the database
 
 -we reported to work and our leaders recommended new changes to add to our project(ICEP website)
 27-february-2020
+
 -did not report to work
+
+02-MARCH-2020
+
+-we were trying to compile the back-end and the front-end
+
+03-MARCH-2020
+- we managed to compile few pages with their back_end class
+04-MARCH-2020
+-I was assinged to a new group to create file system
+
+05-MARCH-2020
+-we had our scrum session with a new group to allocate tasks
+
+06-MARCH-2020
