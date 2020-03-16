@@ -98,4 +98,66 @@
 
 •	On this day we finalized our work and we presented the system.
 
+24 Feb. 2020
 
+•	We push the report for the week.
+•	And continue making research and coding
+
+25 Feb. 2020
+
+•	We review our project and tried to update pages on our project.
+•	And we also meet with our BA’s
+
+26 Feb. 2020, 27 Feb. 2020, 28 Feb. 2020
+
+•	I was not at work because of the strike 
+
+2 Mar. 2020
+
+•	I push the report for last week.
+•	And I also did research on back end validation.
+
+3 Mar. 2020
+
+•	I was coding the code for validation.
+
+4 Mar. 2020
+
+•	I continue to code the back end registration validation.
+•	In the middle of the day Mr Nyambeni came and put us in a different group with was the sixth group.
+•	We also meet with our new BA’s and I was assign a Developer Leader.
+•	I started coding the new system which was declaration system.
+•	The task that was assign to me was landing page and registration back end.
+•	And on the day we gross night with some of my new group member’s to push the system.
+
+5 Mar. 2020
+
+•	I was not available at work on this day.
+
+6 Mar. 2020
+
+•	I was coding the validation for register and login.
+•	I didn’t finish it on this day because it was still a research.
+
+09 Mar. 2020
+
+•	In the Morning we firstly had a meeting together with ICEP stuff regarding financial problems.
+•	We chose tasks to do, where each of us was obligated to be a full stack developer.
+•	We then discussed how our interface will be structured using sketches / user stories.
+
+10 Mar. 2020
+
+•	I started to code the landing page Interface.
+•	I also connected the interface to the database.
+
+11 Mar. 2020
+
+•	I added some major functionalities needed on the system.
+
+12 Mar. 2020
+
+•	As a team we overviewed all our interfaces and we had to normalize the redundant data.
+•	We also debugged some errors on our system.
+           13 Mar. 2020
+•	In the morning we did some exercises /Games for an hour.
+•	We then pushed our all our work in preparations for presentations.
