@@ -284,6 +284,7 @@ worked on AWS
 we started the day with prayer
 I worked on the admin jwt and restaurant jwt
 we tested the jwt for admin and restuarant and made few adjustments
+mergerd the branches and made new master
 
 
 16/03/2020 Monday
