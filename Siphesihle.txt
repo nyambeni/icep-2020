@@ -133,3 +133,49 @@
 27/02/20
 
 -Could not make it to work due to strike and there not being buses.
+
+02/03/20
+
+-SCRUM meeting 
+-discussed last sprint and things we did not finish
+-spoke about adding more things to the dashboards
+
+03/03/20
+
+-started with edit page
+-trying to connect to json placeholder to test data connection
+-reading up on connection and API
+
+04/03/20
+
+-connected with json placeholder to get data
+
+05/03/20
+
+-Met with our BA's to discuss a couple of issues we had with the wire frames
+-Editing student dashboard
+
+06/03/20
+
+-research on how to upload files
+
+09/03/20
+
+-coded upload button
+
+10/03/20
+
+-trying to get data from database
+
+11/03/20
+
+-helping with connecting log in
+-slept over on campus trying to connect
+
+12/03/20
+
+-got upload button working but couldn't get data from database
+
+13/03/20
+
+-connected to database but data was only showing on the console and not the app.
