@@ -63,25 +63,54 @@ Friday 21-02-2020
 	-THe end of our first sprint
 	-We presented our projects to the ICEP leaders
 	
-24-02-2020
--we had our daily scrum and assigned tasks
-25-02-2020
--there were disruptions due to strike
-25-02-2020
--we did not report to work due to the strike
-26-02-2020
--we reported to work and our leaders recommended new changes to add to our project(ICEP website)
-27-02-2020
--did not report to work
-02-03-2020
--We worked on the system
--I created a project page for the ICEP website 
-03-03-2020
--I worked on the website with my team trying to connect the back and frontend
-04-03-2020
--I was moved from the project i was working on to a new project and we immediately worked on it
-05-03-2020
--We worked on the new project/syastem
--I created the login page and i did the validation for it
-06-03-2020
--Some of our colleagues went to the hackathon and we continued working
+Mondaay 24-02-2020
+	-we had our daily scrum and assigned tasks
+	-continued to on our tasks
+	
+Tuesday 25-02-2020
+	-there were disruptions due to strike
+	
+Wednesday 25-02-2020
+	-we did not report to work due to the strike
+	
+Thurday 26-02-2020
+	-we reported to work and our leaders recommended new changes to add to our project(ICEP website)
+	
+Friday 27-02-2020
+	-Continued work on the website
+
+Monday 02-03-2020
+	-We worked on the system
+	-worked on the frontend with team 
+	
+Tuesday 03-03-2020
+	-I worked on the website with my team trying to connect the back and frontend
+	-failed
+	-worked on the tasks that were left
+
+Wednesday 04-03-2020
+	-Due to team member being shaffled we reassigned tasks.
+	
+Tursday 05-03-2020
+	-We had a test session with the BA"s to see how far this were
+	-we took suggestion as the developer to implement on the system.
+	
+Friday 06-03-2020
+	-Went On the IBM Hackarthon
+	
+Monday 09.03.2020
+	-Did not report to work.
+Tuesday 10.03.2020
+	- Had to resolve regstration 
+	-did not report to work.
+	
+Wednesday 11.03.2020
+	- Had a scrum session
+	- re-assigned tasks
+	- Completed the tasked issued for monday and tuesday
+	
+Thursday 12.03.2020
+	- Contined work on the incomplete tasks
+	
+Friday 13.03.2020
+	- Finilise the incomplete tasks
