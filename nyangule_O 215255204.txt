@@ -227,9 +227,76 @@ i finished the application side back-end and it needs testing
 started to do research on the uploading documents when restuarant is applying to use our app.
 
 
-02/02/2020 Monday
+02/03/2020 Monday
 today i finished the uploading of documents file 
 i still need to work on the testing of the applying back-end
+
+
+03/03/2020 Tuesday
+we started the day with a prayer.
+we had scrum session with our BAs
+i started working on the front end for the application
+
+
+04/03/2020/ Wednesday
+
+we started the week with a prayer
+worked on connecting the back-end to the front
+we had a sleepover to cover the work we had left behind
+we lost few of our group members who got assigned to new groups
+
+05/03/2020 thursday
+we were tired from the sleep over worked
+on the forgot password front-end
+worked on retrieving images from database
+
+06/03/2020 Friday
+we started the day with a prayer
+I worked on testing all of my code and added the missing things in my back-end
+like viewing one customer at a time and logout back-end
+worked on testing the retrieval images from the folder
+
+09/03/2020 Monday
+
+we started the day with prayer a session
+submited the weekly report
+I did research on jaso web token
+
+
+10/03/2020 Tuesday
+we started the day with a prayer session.
+we had a scrum meeting with our BAs to discuss the progress
+we were having
+i coded  the jwt for the customer login.
+tested the code to see if it is working needed more adjustments
+
+11/03/2020 Wednesday
+we started the day with a prayer session
+I re-tested the jwt for customer login.
+we had sleep over to connect back-end and front-end
+
+12/03/2020 Thursady 
+we started the day with prayer
+I worked on testing the back-end
+worked on AWS
+
+13/03/2020 Friday
+we started the day with prayer
+I worked on the admin jwt and restaurant jwt
+we tested the jwt for admin and restuarant and made few adjustments
+
+
+16/03/2020 Monday
+we started the day with prayer
+i submitted the daily report
+
+
+
+
+
+
+
+
 
 
 
