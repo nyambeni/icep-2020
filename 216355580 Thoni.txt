@@ -78,3 +78,33 @@ First sprints presentation. *Had technical issues during presentation, like the 
 * There was strike the whole three days.
 * Did some more research during the three days but it was an unproductive week.
 
+
+2 March 2020
+* Failed to complete the task at hand. Changing to task requirements is my only way out. Now I hard coded the information of each product to get or post it manually not using the Db.
+* Didn’t push on this day.
+3 March 2020
+* Continuation of the manual extraction of the gift boxes in the system. Was trying Angularjs but I wasn’t able to do it.
+* End of the day we decided as a team we decide to cross night the next day.
+4 March 2020
+* Continuation of coding the Wishlist page
+* Team daily standup
+* After work we crossed knighted until the next day
+5 March 2020
+* In the morning we continued with the system as a team and left in the morning at 9am
+
+
+9 March 2020
+Started spring 3 for gift box which was the upload picture function as an admin
+Daily standup with the team around midday
+We moved the wishlist to sprint 3
+
+10 March 2020 - 12 March 2020
+
+Continued with the upload picture function
+Fixed the functionalities of the wishlist page
+Meeting with the BA about what is complete and to be changed
+
+
+13 March 2020
+polishing of the upload button what was left was it being pulled by the team member doing the admin page
+End of the day, struggling to finish wishlist, seeking out all resources and help
