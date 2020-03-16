@@ -234,7 +234,6 @@ i still need to work on the testing of the applying back-end
 
 03/03/2020 Tuesday
 we started the day with a prayer.
-we had scrum session with our BAs
 i started working on the front end for the application
 
 
@@ -260,43 +259,6 @@ worked on testing the retrieval images from the folder
 
 we started the day with prayer a session
 submited the weekly report
-I did research on jaso web token
-
-
-10/03/2020 Tuesday
-we started the day with a prayer session.
-we had a scrum meeting with our BAs to discuss the progress
-we were having
-i coded  the jwt for the customer login.
-tested the code to see if it is working needed more adjustments
-
-11/03/2020 Wednesday
-we started the day with a prayer session
-I re-tested the jwt for customer login.
-we had sleep over to connect back-end and front-end
-
-12/03/2020 Thursady 
-we started the day with prayer
-I worked on testing the back-end
-worked on AWS
-
-13/03/2020 Friday
-we started the day with prayer
-I worked on the admin jwt and restaurant jwt
-we tested the jwt for admin and restuarant and made few adjustments
-mergerd the branches and made new master
-
-
-16/03/2020 Monday
-we started the day with prayer
-i submitted the daily report
-
-
-
-
-
-
-
 
 
 
