@@ -48,7 +48,7 @@ on this day, i made a presentation of our system and i was selected to represent
 
 05 FEBRUARY , wednesday 
 
-on this date , i reconved with business analyst at building 10 to formulate and create new teams 
+on this date , i reconvened with business analyst at building 10 to formulate and create new teams 
 not only that but to do the planning for the newly proposed system.
 
 06 FEBRUARY ,thurday
@@ -105,6 +105,38 @@ protest was in progress.
 
 28 FEBRUARY , friday
 protest was in progress.
+
+02 MARCH , monday 
+scrum  meeting 
+
+03 MARCH , tuesday 
+trying to connect to json placeholder to get data
+
+04 MARCH , wednesday
+we tried to merge all the codes.
+
+05 MARCH , thursday
+met with BAs to discuss a issues we had with the wire frames.
+ 
+06 MARCH , friday 
+coding profile of a student.
+
+09 MARCH , Monday
+on this date i edited the code on the  student profile.
+
+10 MARCH , Tuesday
+learning the jason web token.
+
+11 MARCH , Wednesday
+learning the jason web token.
+
+12 MARCH , Thursday
+coding the login part using the jason web token now.
+
+13 MARCH , friday
+trying to updated the profile of a student using the CRUD method.
+
+
 
 
 
