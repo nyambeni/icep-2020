@@ -199,8 +199,61 @@ for my backend and coding.
  05 March 2020
 ---------------
 -> never reported to work due to crossnighting 
+
  06 March 2020
 ---------------
 -> -> used git for cloning my our project and started with my work
 -> continued with BEE about the login code
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 09 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> started fixing our login back-end code , Mr Nyambeni helped me out 
+  but i couldnt connect it with our front-end.
+-> downloaded few videos and went through google for more solutions
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 10 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> carried on with login problem i was busy facing with my back-end code.
+-> i kept looking for solutions , and did some few codes on angular 
+-> and i started learning more about php
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 11 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> carried on with login code and i had to make changes from the token i included.
+-> started doing research on including session on my login instead of a token
+-> downloaded and gathered more information bason on the login back-end
+-> gathered information on php, managed to  register a user and login ,using mysql for database.
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 12 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> created a new repo for my front-end code since i started with angular and php
+-> noticed that most back-end codes are similar to each other in nodejs and angular
+-> prepared for changesfor my login code for back-end
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 13 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> created a new repo for my front-end code since i started with angular and php
+-> noticed that most back-end codes are similar to each other in nodejs and angular
+-> prepared for changesfor my login code for back-end
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 16 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> started working with Themba on changing the login vode from token to session , 
+  since we found that token is cousing problems when we want to connect with our fron-end
+-> 
 -> after coding we then pushed our work to git, committed it and pushed it to my origin
