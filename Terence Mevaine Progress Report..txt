@@ -184,10 +184,56 @@ Friday February 28, 2020
 Monday March 02, 2020
 ----------------------
 
-	-  Continued working with the backend of the Admin or the order as well. 
-
 
 Tuesday March 03, 2020
+-------------------------
+
+
+Wednesday March 04, 2020 
+---------------------------
+
+
+Thursday March 05, 2020 
+--------------------------
+
+
+Friday March 06, 2020 
+------------------------
+
+
+
+------------------------------------------end of the week-----------------------------------------------
+
+
+Monday March 09, 2020
+----------------------
+	
+	Updated my log book report and carried on with my respective task.
+
+Tuesday March 10, 2020
 ----------------------
 
-	- 
+	On Tuesday, I had a Daily Standup with the whole team and went to help the Business Application members with testing API.
+
+Wednesday March 11, 2020 
+------------------------
+
+	worked on View History Order backend & AWS. With some group member we spent the night over at the office and attempt to connect the frontend and the backend application. 
+
+Thursday March 12, 2020 
+-----------------------
+	
+	I had the day off due to the cross-night.
+
+Friday March 13, 2020 
+------------------------
+
+	Was waiting to present but ended up not presenting at all. We did some team building game. 
+
+------------------------------------------end of the week-----------------------------------------------
+
+
+
+
+
+
