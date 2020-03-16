@@ -1,0 +1,144 @@
+ DAILY REPORT
+20 January 2020 building 10-g44
+Induction
+-Concepts of project management,project co-ordination,agile and scrum were explained
+Introduction to icep, AWS from Mash, brief about project management,project,agile methodologies, brief about the rules,what's prohibited and what's not, Cynthia,Nyambeni,Calvin,Tshidi, and the dread guy Koti, Mosa playing games, 
+NB-every two weeks it's the presentations to the management, 
+21 January 2020
+-Mash introduced icep
+Boipelo
+ He is the front end developer, and co-founder of NONA multimedia
+What he introduced was:
+1. What to design.
+2. How to design
+3. Emphasized on how copyright it's important
+4. Tools to design
+Emphasized on mockups the interface plan
+5. Where you design? Which problem you want to solve
+6. Who to design for?(adults(eg visibility), youth (app should be fast),kids(lots of music and colour)) 
+You can make a quick draft of your planning on this site's, www.behance.net, dribble.com
+Balsamiq software to sketch the plan of the design
+Cassious
+Introduced the techstack we gonna use in ICEP, MEAN(MySQL,ExpressJS, Angular,nodejs) stack to be precise.
+Software’s
+1. Trello
+2. Repo - we use GitHub
+3. Backend testing we use postman
+4. Logbooks are important
+Calvin - scrum master
+Scrum master - It just a framework within agile.
+Gave us a glimpse about the scrum purpose, how it benefits the organization than SDLC.
+Emphasized on Scrum processes and Scrum values.
+Mosa
+Playing the games.
+Cynthia
+Took a list of people who own laptops
+22 January 2020
+Mr Nyambeni
+Gave insight of the languages we gonna use, backend development we gonna use Nodejs and we are going to use Angular
+-signing of WIL  form and indemnity form
+-Created trello account
+23 January 2020
+
+Nyambeni and Godi
+Just talking about things, and their challenges in IT.
+This other guy from Department of Education he came to give some insight of how to make it.
+I signed an employment letter.
+2ND WEEK
+27 January 2020
+-Cloned icep-2020
+-created a branch
+-pushed back to git
+-brainstormed project ideas
+I went to 10-g44,  to  give ideas of a new system to implement to Godi with my team members. We gave Godi some of our ideas and one was approved for commencement.  WE WERE BUILDING A SYSTEM IN A WEEK.
+
+28 January 2020
+-assigned task of creating Back-end register for Emergency System
+-Researched on how to use Nodejs MySQL
+I had a meeting with my team and we assigned tasks to each member. I was assigned to design a login page for our system COA.
+I started with my research, basically to have knowledge in NodeJS and I was implementing the back end.
+I had serious challenges since I wasn’t familiar with the new language.
+28 January 2020
+I was busy with more research, but there was progress because I saw the bits that I have implemented. My progress was moving slow but time was not on my sight because we ought to present on Friday 31st January.
+I went to see the business analysts to get more clarity on the page (login) I was working on, because there was no stylings on their page, and I on the other side I had familiarized myself with NodeJS.
+29 January 2020
+-Research on NodeJS Express
+-Linking NodeJS and Express API
+I managed to create the login page, the only problem was the validation not working. I did some more research on validations for email and password and I managed to find some examples online. Studied more on API's and connecting to database.
+By the time I knocked off, the login page was fully functioning.
+30 January 2020
+-Met with the scrum master Calvin 
+-Added a list on what should be done on trello
+-Learned to connect to the Database
+I was trying to link/connect my login page with the other pages (registration, landing and admin page) my team created and it was one of the biggest challenges, as well as connecting to the front end.
+I searched online for some few videos on how to do the connection, the problem was the videos were using node with mongodb and I was trying to do everything with PHP/MySQL, so the most of the things changed a lot to the recent version of NodeJS with Express, that’s the main reason I was struggling.
+31 January 2020
+-Added update and get APIs
+-Checked the ERD with the BAs
+I was doing the connection of the node app with MySQL. Finally I managed to. I was also introduced to authentication using JSON Web Tokens. Implementation was tested using POSTMAN.
+3 February 2020
+-Research on JWT and creating a service
+I prepared for the presentation and in the meantime of waiting to go to present, we as a team managed to do the linking of the pages, we did some preview of our final product to the business analysts before we could present.
+Presentation was postponed to the following day for other two teams.
+
+4 February 2020
+-presented system
+I was presenting the system with my team, and of course it wasn’t functioning fully, but we implement minimal viable product, as long as the other functional requirements were functioning.
+5 February 2020
+-Got introduced to my new team for the ICEP Website
+-Researched similar Websites
+I went to the business analysts lab to get new project. I was grouped with my new team and we were given a new system, basically to revamp the ICEP website and add a new functional requirements that will sort of include 3 tie system.
+I was brainstorming with my team on what to do with the system, like adding more other functionalities, like adverts, application form for interviews, and live chatting.
+I was assigned a task of developing  a registration form, now on the front end.
+6 February 2020
+-Starded with the register API
+-Researched on new ideas 
+I was learning bootstrap, and I managed to create a registration page with some new interface, yet with no validation.
+Teams were called for scrum session.
+
+7 February 2020
+I did some validations for the front end on the application form.
+
+10 February 2020
+-Nyambeni requested a report of our work
+-Attended a SCRUM session where we were taught more on the concept by Kabelo and Matshidiso
+
+10 February 2020
+•	I met with my team for sprint.
+11 February 2020
+•	I continued with my task, had some difficulties with the IDE I was using so I changed to a different one. I met with my team to discuss the EERD of our project.
+12 February 2020
+•	I continued with my task for the project. Met with my team and our scrum leader for daily scrum.
+13 February 2020
+•	I continued with my task for the project
+
+17 February 2020
+•	I had a daily scrum with my group. And continued to work on my task.
+18 February 2020
+•	Continued with my task, tried to finish designing my web page.
+19 February 2020
+•	I did my task and finished and finished designing my web pages. Meet with my team to discuss about presentation.
+20 February 2020
+•	We had an all-day scrum with the agile 42 people. After I went to my group meeting.
+21 February 2020
+•	I merged my team’s project together with my team and explained to others how it works. We presented the project to our colleague and leaders.
+24 February 2020
+•	I had a meeting with my team to discuss our presentation (what happened, what we can do to improve it). I helped one of our developers to do the admin dashboard. My team and I had another meet to discuss the second sprint.
+25 February 2020
+•	When I started to do my work, students began to strike and we left work.
+26 February 2020
+•	Day off.
+
+27 February 2020
+•	Started to connect my front-end to the back-end. I got some errors.
+28 February 2020
+•	Continued to connect the front-end to the back-end. We left work early.
+
+
+
+
+
+
+
+
+

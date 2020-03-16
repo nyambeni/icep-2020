@@ -1,0 +1,239 @@
+
+Monday January 20, 2020 
+-----------------------
+
+	We attended our first day of ICEP as part of our induction, we were introduced to the leaders of ICEP and also the core mission of ICEP.
+
+
+Tuesday January 21, 2020 
+------------------------
+
+	We learn about Scrum and its advantages in the work enviroment, and got introduced to a Frontend developer who explain the concept of Frontend development and what are the creteria one need to focus for such development.
+
+
+Wednesday January 22, 2020 
+-----==-------------------
+
+	We were introduced to the MEAN STACK, which we will be used throughout the semester. That introduction to MEAN, included Nodejs and Angular. 
+We thereafter, got introduced to the importance of design and colors in every application developed. 
+Such concept was brought to us by Mr Mash and Nano.
+
+
+
+Thursday January 23, 2020 
+-----==-------------------
+	-Signing Forms and Creating Account on Slack and Trello.
+
+
+Friday January 24, 2020 
+-----==-------------------
+	-Day Off. 
+ 
+-----------------------------------------End of the Week----------------------------------------------
+
+
+Monday January 27, 2020 
+-----------------------
+	Developers and Business Analyst were grouped, to brainstom about a project idea.
+We also Cloned Icep-2020 Repository from Git, learned how to create a new branch as well as learned how to push code to git
+
+Tuesday January 28, 2020 
+------------------------
+	I was assign the task to develop the landing page of the new system, and conducted some research on the subject matter. 
+
+Wednesday January 29, 2020 
+-----==-------------------
+	I setted up my enviroment for coding purposes and started developing the landing page. We also held a Scrum session to monitor progress.
+
+Thursday January 30, 2020 
+-----==-------------------
+	Carring on with development of the pages. We try merging the code from both from and backend. We used Postman to test the system.
+
+Friday January 30, 2020 
+-----==-------------------
+	Combined Front and backend repository for testing the system and prepare for presentation, the following. 
+	
+
+-----------------------------------------End of the Week----------------------------------------------
+
+
+Monday February 03, 2020 
+------------------------
+	-We presented the system. (Fruit and Vegs)
+
+
+Tuesday February 04, 2020 
+-------------------------
+	-We attended the presentation from other group and exchange idea for upcoming project. 
+
+
+Wednesday February 05, 2020 
+---------------------------
+
+	-We got assagned into new group for a new project, Kasi Foodhub in my case. 
+we familiarized with each other and brainstorm for the system to come.
+	-I was also chosen as Learder of the development team.
+
+Thursday February 06, 2020 
+--------------------------
+	I did some research on the backend development of the Vendor Admin.
+
+
+Friday February 07, 2020 
+--------------------------
+	-I was abscent at the office due to some health issues. 
+
+
+-----------------------------------------End of the Week----------------------------------------------
+
+
+Monday February 10, 2020 
+------------------------
+	-I was abscent at the office due to some health issues.
+	-I conducted a daily standup meeting with the rest of the team and learder Mr. Calvin. 
+
+Tuesday February 11, 2020 
+-------------------------
+	-Carried on with my research & code for the backend development of Admin. 
+	-I conducted a daily standup meeting with the rest of the team and learder Mr. Calvin.
+
+Wednesday February 12, 2020 
+---------------------------
+
+	-My colleague Ashok and I teamed up and conducted further research on what exactly the admin side of the vendors must contain. The information it must display and was looking for some samples on the internet to give us an idea to work from, as I was confronted to some difficulties.
+	-I conducted a daily standup meeting with the rest of the team and learder Mr. Calvin.
+
+
+Thursday February 13, 2020 
+--------------------------
+	-I reviewed my work, deleted the whole file and started afresh. 
+        -I conducted a daily standup meeting with the rest of the team and learder Mr. Calvin.
+
+Friday February 14, 2020 
+--------------------------
+	-Carried on with my task and did some over to conver the time lost during my abscence.
+	-Created My AWS account at my place.
+
+-----------------------------------------End of the Week---------------------------------------------- 
+
+Monday February 17, 2020 
+------------------------
+	-I conducted a daily standup meeting with the rest of the team including Our BA's and learder Mr. Calvin, and I carried on with my work. 
+
+
+Tuesday February 18, 2020 
+-------------------------
+	-Carried on with my research & code for the backend development of Admin. 
+	-I conducted a daily standup meeting with the rest of the team and learder Mr. Calvin. & Mr Kabelo
+
+Wednesday February 19, 2020 
+---------------------------
+
+	-Finished with the Backend Admin but didnt implement it as the Frontend was not done. 
+	-I met with the team and check everyone progress
+	-Helping on the frontend along with other developers.
+
+
+Thursday February 20, 2020 
+--------------------------
+	-I attended the Agile Methodology Workshop by Agile24. This allowed me to learn more about Agile as a whole and also highlighted the importance Scrum, daily meeting and teamwork, as well as how market myself in the industry. 
+
+Friday February 21, 2020 
+--------------------------
+	-I conducted a daily standup meeting with the developer and the BA's to get ready for the presentation, which happened later on that day.
+	-After the presentation, we had another meeting and I encouraged everyone to do a retrospective as suggested by the scrum methodology. 
+
+
+------------------------------------------end of the week-----------------------------------------------
+
+
+Monday February 24, 2020
+------------------------
+
+	-Held a meeting in the morning with the whole team and set new goals as well as discussed what could be improve from the last presentation. 
+	-We decided as a team to help restart the frontend admin from scratch and finish it before continuing with the rest of the day. 
+	-I had another meeting with the Leadership team to give them feedbacks from the team and got new perspective. 
+	-I update this report, pull and push frontend repository and Started coding the Frontend Admin along with some team members. 
+	-We created and reviewed the Sprint 2 during the Scrum session as well. 
+
+Tuesday February 25, 2020
+-------------------------
+
+	-We were sent home due to some protest on the campus.
+
+Wednesday February 26, 2020 
+---------------------------
+
+	-Work from my place and rather focused on the AWS
+
+Thursday February 27, 2020 
+--------------------------
+
+	-I reported to work and worked the backend Admin in regard to desabling a user from the system. Also continued with my AWS Pathways
+	
+	-I went to help the BA's to do some test for the backend 
+
+Friday February 28, 2020 
+------------------------
+
+	- Work was cancelled due to  the protest. I worked from home on the AWS
+
+------------------------------------------end of the week-----------------------------------------------
+
+
+Monday March 02, 2020
+----------------------
+
+
+Tuesday March 03, 2020
+-------------------------
+
+
+Wednesday March 04, 2020 
+---------------------------
+
+
+Thursday March 05, 2020 
+--------------------------
+
+
+Friday March 06, 2020 
+------------------------
+
+
+
+------------------------------------------end of the week-----------------------------------------------
+
+
+Monday March 09, 2020
+----------------------
+	
+	Updated my log book report and carried on with my respective task.
+
+Tuesday March 10, 2020
+----------------------
+
+	On Tuesday, I had a Daily Standup with the whole team and went to help the Business Application members with testing API.
+
+Wednesday March 11, 2020 
+------------------------
+
+	worked on View History Order backend & AWS. With some group member we spent the night over at the office and attempt to connect the frontend and the backend application. 
+
+Thursday March 12, 2020 
+-----------------------
+	
+	I had the day off due to the cross-night.
+
+Friday March 13, 2020 
+------------------------
+
+	Was waiting to present but ended up not presenting at all. We did some team building game. 
+
+------------------------------------------end of the week-----------------------------------------------
+
+
+
+
+
+

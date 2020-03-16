@@ -1,0 +1,259 @@
+Silindokuhle Mapiyeye 216188594
+
+28th January to the  31st of January
+------------------------------------
+On Tuesday, it was my first day attending. Arrived and i was appointed to join a group for a project which was COA, where by i had to catch up with every ideas
+and documentation they did as a group. i started gathering information on how to code well using node.js since i'm one of the back-end developers for my team.
+The information i got on youtube helped me to code the back-end part for the admin.Mr Nyambeni was there to guard us through the process of developing and errors
+which occur during the process of developing. We were combined with our BA's, they wanted to know how far are with developing the system and we had few changes 
+on th discussion we had.
+
+On the following day i started realising how important is the use of 'GIT' i started using commands and help from my team. I was already registered on git, i 
+started cloning and creating branch name and we had an advice from our Mr Nyambeni on not to work as a master on git. after cloning the project i started coding my admin 
+section , i was still using help on how to complete my section of coding and before the day ended we all have to push our work to git and commit it, so it an later
+on cloned and edited. We all started our registration and unblocking for IDC30BT
+
+On Thursday, we carried from were we left and we had a scrum master to check how far each and everyone from the developers side is, we managed to understand the use of 
+scrum and its importance. and we were told that on Friday we presenting, stress started and we had to push hard on getting the system together and linking pages to 
+navigate, we push hard on the day on developing the system so that we can be ready to present the work we had. i kept coding my admin back-end and i finished same day.
+and waited for front-end developers from my team to finish up with their coding and pushed everything to git.
+
+Friday it was our presentation day, we there on cloned our project from git and we were given some time before the presentation starts, we used the time to finalize
+everything concerning our project ,fixing errors and getting ready for the presentations,as time goes by we found out that we going to present on monday ,we carried on 
+fixing our front-end to look more smarter.
+
+
+
+3rd February to the 7th of February
+------------------------------------
+
+On Monday, we started to proceed were we left with our project. and around 11:45 presentations started and only 2 groups started
+
+The following day, we added few components , and i carried on to gather information about back-end coding since im interested in
+back-end, i went more deeper on how to use CRUD  on node.js, how to create database coonections, and severs and making sure that i know 
+all packages which needs to be installed using node.js
+
+On Wednesday, developers were combined with all BA's and were positioned and separated into for group were i appointed to on a GIFTBOX system.
+
+On Thursday we were on a workshop and we had information on how to use scrum with few advices
+
+on friday we started gathering information based on our giftbox system and due to electricity we had a half day.
+
+   
+
+ 10 February 2020
+----------------------
+
+-> We had a meeting with our BA's to draft our product backlog for our project GIFTBOX
+   everyone was appointed a task to do, each given a peroid of two weeks to finish the sprint(first sprint as a group
+-> I was given a task of creating backend for searching and a dropbox
+-> We created a structure for our project with repositories
+-> Started gathering information on how to code backend for both searching from the database and how does a dropbox 
+   corresponds with the database
+-> Started with my coding
+-> Pushed my code to git
+
+
+ 11 February 2020
+--------------------
+
+-> I pulled the structure  from git and carried on with searching and coding of my given sprint.
+-> My coding improved due to the information i was gathering and carried coding and my work was almost done.
+-> Gathered videos on the searching so that i can pull, carry on with my code and push again at home.
+-> At the end of the day i pushed the work to git which was almost done.
+
+ 12 February 2020
+--------------------
+
+-> pulled the structure from git and continued with coding.
+-> during the process of my code we had stand up for 30min.
+-> we had a stand up with our BA's and presenting our progress in Trello
+-> i finished my searching and dropbox  part and pushed it to git.
+
+
+ 13 February 2020
+--------------------
+-> pulled the structure from git.
+-> started on researching on other backend codes i think i will in future.
+-> stop and had few changes in my code where by included unnecessary codes.
+-> pushed it again after the changes
+-> started pushing myself on understanding CRUD and few queries.
+-> downloaded some books based on the CRUD i wanted to know.
+
+
+
+ 14 February 2020
+--------------------
+
+-> carried on the coding CRUD.
+-> we had a half day couldnt continue coding
+
+ 17 February 2020
+----------------------
+-> used git for cloning my our project and started with my work.
+->Gathered more informationa about our system, and managed to understand most problems we 
+facing on developing the system, all backend developers were done with thier given tasks
+and frontend developers most were done.we started merging our backend and waited for frontend 
+developers to get done and also merge so we connect our backend and frontend. while they were still
+busy i gathering more information about backend and continued with my coding.
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+
+ 18 February 2020
+----------------------
+-> used git for cloning my our project and started with my work.
+->we started on our connection, all frontend developers merged and connected.
+i focused more on checking if our system connects and fixing of most errors which
+ occured.From the errors, we again work on them till the expected output come out but.
+continued with gathering my backend information.
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+
+ 19 February 2020
+----------------------
+-> used git for cloning my our project and started with my work.
+-> continued with error handling and our connection, then i carried on with all the information
+for my backend and coding. 
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 20 February 2020
+----------------------
+-> used git for cloning my our project and started with my work.
+->registered on AWS
+->we were mixed with our BA's due to scrum and we discussed more about our information and all the work
+  which was done and whats still needs to be done . and we finished our error handling and our connection was
+  successful. but we were still fighting on connection of our frontend and backend. 
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 21 February 2020
+---------------------
+
+
+-> used git for cloning my our project and started with my work.
+-> prepared for our presentation.
+-> we presented our system with all the information we had.
+
+
+
+ 24 February 2020
+---------------------
+-> used git for cloning my our project and started with my work.
+-> addressing of the second sprint with our BA's, we discussed that we wont start our second sprint 
+  without finishing and making our first sprint perfect.
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 25 February 2020
+---------------------
+-> used git for cloning my our project and started with my work.
+-> we met with our BA's and had some discussion based on our project 
+-> we reviewed our project and updates some pages on our project.
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 26 February 2020
+---------------------
+
+-> used git for cloning my our project and started with my work.
+-> continued with my work and coding
+-> strike interrupted us and they had to dismiss us.
+
+
+ 27 February 2020
+---------------------
+->there was strike couldnt come to work and used the time to do my research about my project
+
+
+ 28 February 2020
+---------------------
+-> reported to work,used git for cloning my our project and started with my work, continued with my 
+   work and we dismissed early
+
+
+ 02 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> I and Remember started coding validation for our project.
+->after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 03 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> I and BEE we busy with the login code , including web token and authorization,we managed to finish up 
+  the code with web token
+
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 04 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> started tetsing our login code using postman we faced few problems and we managed to fix them too.
+-> continued with coding and checking other CRUD  codes
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+-> as a group  we decided to crossnight so that we can push fast our project and first sprint
+->used git for cloning my our project and started with my work
+->we fixed most problems during crossnighting.
+
+ 05 March 2020
+---------------
+-> never reported to work due to crossnighting 
+
+ 06 March 2020
+---------------
+-> -> used git for cloning my our project and started with my work
+-> continued with BEE about the login code
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 09 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> started fixing our login back-end code , Mr Nyambeni helped me out 
+  but i couldnt connect it with our front-end.
+-> downloaded few videos and went through google for more solutions
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 10 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> carried on with login problem i was busy facing with my back-end code.
+-> i kept looking for solutions , and did some few codes on angular 
+-> and i started learning more about php
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 11 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> carried on with login code and i had to make changes from the token i included.
+-> started doing research on including session on my login instead of a token
+-> downloaded and gathered more information bason on the login back-end
+-> gathered information on php, managed to  register a user and login ,using mysql for database.
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 12 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> created a new repo for my front-end code since i started with angular and php
+-> noticed that most back-end codes are similar to each other in nodejs and angular
+-> prepared for changesfor my login code for back-end
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 13 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> created a new repo for my front-end code since i started with angular and php
+-> noticed that most back-end codes are similar to each other in nodejs and angular
+-> prepared for changesfor my login code for back-end
+-> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+
+ 16 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> started working with Themba on changing the login vode from token to session , 
+  since we found that token is cousing problems when we want to connect with our fron-end
+-> 
+-> after coding we then pushed our work to git, committed it and pushed it to my origin

@@ -131,12 +131,14 @@ Student Number:216166329
    
   28 Feb 2020
   * i was still busy with student registration form , adding some fuctionality to some of the buttons
- 
+
   02 March 2020
   *We had scrum meeting as a group to discuss our way forward.
 
   03 March 2020
+
   *As a group we struggling with the login page ,so i made research on how to use json token and session.
+
 
   04 March 2020
   *I had to link the buttons on the leanding page with the backend so that we can request data from the database.
@@ -145,6 +147,7 @@ Student Number:216166329
   *I made research on how to request image from the backend file and dispaly in on the user interface.
   *I implemented the code for requesting images from the backend though the code is not working properly.
   *We also met as the group to discuss the progress and add some changes on landlord dashboard.
+
 
   06 March 2020
   *i implemented buttons for student to apply ,also connected property buttons to backend  in order for students 
@@ -162,4 +165,8 @@ Student Number:216166329
  13 March 2020
  *We tried to connect the login page again before i left at 12 
 
+
+  06 March 2020
+  *i implemented buttons for student to apply ,also connected property buttons to backend  in order for students 
+   to view registered properties.
 

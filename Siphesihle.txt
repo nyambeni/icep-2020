@@ -1,0 +1,181 @@
+20/01/20
+
+-Concepts of project management,project co-ordination,agile and scrum were explained
+-Mash introduced icep
+
+21/01/20
+
+-Introduced to Nona a front-end designer,who explained the concept of design
+-Told us to think of colors which associate with the concept(copyright)
+
+22/01/20 
+
+-Nyambeni introduced us to Angular and Node.js where he showed us the features and modules of the applications
+
+23/01/20
+
+-signing of WIL  form and indemnity form
+-Created trello account
+
+24/01/20
+-Day off
+
+27/01/20
+
+-Cloned icep-2020
+-created a branch
+-pushed back to git
+-brainstormed project ideas
+
+28/01/20
+
+-assigned task of creating admin page for Online fruit and veg
+
+29/01/20
+
+-Research on angular
+-Linking angular to vscode
+
+30/01/20
+
+-Editing admin page
+
+31/01/20
+
+-helping out a with validation
+-adding pictures to the admin page
+
+03/02/20
+
+-Research on JWT and creating a service
+-presented system
+
+04/02/20
+
+-Research on adding a cart 
+
+05/02/20
+
+-Got introduced to my new team for the RMS system
+-Researched similar apps
+
+06/02/20
+
+-Attended a SCRUM session where we were taught more on the concept by Joane and Tinus
+
+07/02/20
+
+-Research on the ionic framework
+
+10/02/20
+
+-Nyambeni requested a report of our work
+-Scrum session with RMS teammates
+-assigned task of student dashboard
+
+11/02/20
+
+-laptop wasn't working so i was moved to a PC which also had issues running ionic
+-Read upon ionic docs
+
+12/02/20
+
+-Met with team for scrum
+-Talked about adding more developers to student dashboard
+-Requested wire frame from BA's
+
+13/02/20
+
+-I was sick, i didn't go to work
+-fixed my laptop
+
+14/02/20
+
+-Started with student dashboard
+
+17/02/20
+
+-Editing student dashboard 
+-Daily scrum with our BA's
+
+18/02/20
+
+-Trying to merge work
+-Trying to connect back-end with front-end
+-Helped Petronela creating a link for the forgot password on the log in page
+
+19/02/20
+
+-finished student dashboard with no functionality
+-created a profile page and linked it with the dashboard
+
+20/02/20
+-finished profile page
+-Started with about us page
+
+21/02/20
+
+-Presented system
+
+24/02/20
+
+-SCRUM meeting with RMS team
+-Calvin showed us how to open up and communicate more effectively
+
+25/02/20
+
+-Strike on campus
+
+26/02/20
+
+-Strike
+
+27/02/20
+
+-Could not make it to work due to strike and there not being buses.
+
+02/03/20
+
+-SCRUM meeting 
+-discussed last sprint and things we did not finish
+-spoke about adding more things to the dashboards
+
+03/03/20
+
+-started with edit page
+-trying to connect to json placeholder to test data connection
+-reading up on connection and API
+
+04/03/20
+
+-connected with json placeholder to get data
+
+05/03/20
+
+-Met with our BA's to discuss a couple of issues we had with the wire frames
+-Editing student dashboard
+
+06/03/20
+
+-research on how to upload files
+
+09/03/20
+
+-coded upload button
+
+10/03/20
+
+-trying to get data from database
+
+11/03/20
+
+-helping with connecting log in
+-slept over on campus trying to connect
+
+12/03/20
+
+-got upload button working but couldn't get data from database
+
+13/03/20
+
+-connected to database but data was only showing on the console and not the app.

@@ -1,0 +1,110 @@
+216355580 Maleka TJ
+27 January 2020 – 7 February 2020 Report
+
+
+27 January 2020:
+* Groups were formed between developers and business analysts to come up with a system to complete for the next 5 days.
+* We were combined with BA’s to brainstorm ideas. We ended up choosing a system called “Lost and Found” which could be used to retrieve lost items by uploading a picture of the item you found then describing it in a description form. The person who has lost an item can log their lost item in order to see if it might be on the database of lost items. 
+* During the day I was learning the basic commands of gitbash and working with github, also about mongodb.
+* Later on we presented the idea to our respective icep supervisors.
+28 January 2020:
+* Tasks were assigned on Trello by BA’s.
+* As developers we choose the activities to be completed in order to develop a full system.
+* I was doing the backend of the login page.
+* Started researching about node.js, mongodb, basically MEAN.
+29 January 2020
+* Was working on activating the database connection of the login page using node and express.
+* Throughout the day it was basically me researching the backend activation.
+* Created the code of the backend activation for database connection.
+* Went to register for IDC30BT.
+30 January 2020
+* Created the database data using xampp and myphpadmn.
+* Connected the backend login page to the login page that was created by Lethu, which was quite a challenge we had to work together trying to figure out the code in angular used to connect the database.
+31 January 2020
+On this day it mostly us finalizing every task that was needed to be completed. We meet with the BA’s to discuss further more the implications we had with their documentation. Tensions were high I wont lie cause of miscommunication. We called it a day very early cause there was technical implications.
+3 February 2020:
+* As a group we were in panic mode cause we were not yet done with the css of the whole project and somes connection to the frontend and backend were having problems.
+* Presentations started for the first batch of groups to present their systems.
+* After presentation we completed the system as a whole even though there was a few elements missing 
+4 February 2020
+* We presented our system to other groups and icep supervisors and got feedback 
+5 February 2020
+Researched about adobe xd and ionic 4
+Groups were created for a new system.
+I was assigned to be a frontend developer on a system called giftbox.
+Throughout the day we were brainstorming ideas with BA’s.
+6 February 2020
+I was attending the agile42 workshop throughout the day.
+7 February 2020
+Was researching about the system giftbox. It was a short day, knocked off early.
+10 February 2020
+* Scrum Session: Product backlog of the giftbox system
+* First sprint was had where we declared the pages and tasks to be completed in two weeks
+* The sprint consisted of 7 to do items: Registration, Login, Landing page, Place an order, Add to cart, Wishlist, Search/dropbox
+* I took on the task of doing the wishlist (add to favourites) frontend.
+11 February 2020
+* Created the wishlist component, then worked on creating the add heart icon on to the landing page of which I still had to wait for from one of our members who was in charge of doing this task.
+* Did a lot of research on how to archieve this add to favourites icon
+* We had a daily standup as a team.
+12 February 2020
+* I was in charge of stack communication and updating of tasks on trello
+* I created a new repo as a master and added contributors from my team who where part of doing the frontend.
+* Created a new angular project file
+* Every contributor cloned from the github link
+18 February 2020
+* Had issues with the counter that indicates how many items in the wishlist on the navbar.
+* Just created a hard code of the counter and linked the navbar component.ts to the landing component using functions, it was a tough task.
+* Had a daily standup
+* Pushed to git.
+
+
+20 February 2020 
+* Registered AWS
+* Finalized the wishlist page but just hardcoded
+* Successfully created the wishlist counter and since add to cart duties were not done, I add the counter on there to0.
+21 February 2020
+First sprints presentation. *Had technical issues during presentation, like the displaying the webpage on any display.
+
+24 February 2020
+* Addressing of second sprint with BA team members.
+* We discussed that we won’t start the second sprint we will just perfect the first sprint tasks.
+* Since I oversaw doing the wishlist page I continued doing that task.
+* At the end of the day we pulled the new merged folder to work on.
+* Did research on the aligning screen size on any monitor code.
+25 February 2020
+* I continued doing the wishlist page research
+* There was load shedding and strike on this day.
+26 February 2020 - 28 February 2020
+* There was strike the whole three days.
+* Did some more research during the three days but it was an unproductive week.
+
+
+2 March 2020
+* Failed to complete the task at hand. Changing to task requirements is my only way out. Now I hard coded the information of each product to get or post it manually not using the Db.
+* Didn’t push on this day.
+3 March 2020
+* Continuation of the manual extraction of the gift boxes in the system. Was trying Angularjs but I wasn’t able to do it.
+* End of the day we decided as a team we decide to cross night the next day.
+4 March 2020
+* Continuation of coding the Wishlist page
+* Team daily standup
+* After work we crossed knighted until the next day
+5 March 2020
+* In the morning we continued with the system as a team and left in the morning at 9am
+
+
+9 March 2020
+Started spring 3 for gift box which was the upload picture function as an admin
+Daily standup with the team around midday
+We moved the wishlist to sprint 3
+
+10 March 2020 - 12 March 2020
+
+Continued with the upload picture function
+Fixed the functionalities of the wishlist page
+Meeting with the BA about what is complete and to be changed
+
+
+13 March 2020
+polishing of the upload button what was left was it being pulled by the team member doing the admin page
+End of the day, struggling to finish wishlist, seeking out all resources and help

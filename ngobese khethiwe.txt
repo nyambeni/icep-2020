@@ -1,0 +1,157 @@
+Name:Khethiwe
+Surname:ngobese
+Student Number:215520960
+                     
+                             
+
+  21 January 2020
+   *Mr purutsi introduced the ICEP and had a guest speaker for project management.
+  *They were introducing the softwares that we going to use for coding, communicating and sending or uploading the system ,such as:
+  -Trello, 
+  -Postman,
+  -IntelliJ
+  -Vs Code
+
+  22 January 2020
+  *We had another guest speaker for graphics design from the campany called NANO.And we went outside for games.
+  
+   23 January 2020
+   *I did a research about Scrum and its roles.
+   *I learnt how to creating Boards,list and adding members using trello.
+   
+
+
+   24 January 2020
+
+    *we did not come for induction
+   
+    27 January 2020
+    *I learnt how to used GIT to clone a file from gitHub using git commands and to push back the file on gitHub using git commands.
+    on the second seasion, we were grouped with business analysis to come up with the system ideas.
+
+     28 January 2020
+     *I installed node js and Angular js
+     *I did a research about Angular js
+     
+     29 January 2020
+     *I attended a scrum meeting with my team and mentor to discuss how far are we with the system.
+     *we discusses how the admin page should look like.
+     
+     
+      30 January 2020
+    
+      *The view button was not working. i had to ask for help to my team members who are doing the frontend to help me.
+	we didn't manage to do it.
+
+      31 January 2020
+      *i continue with the admin page creating update and delete button, that delete and update the information in the database.
+        
+
+      03 Feb 2020
+      
+     *I tried to connect the frontend with the backend using the API.
+      
+      04 Feb 2020
+   
+      *We presented our system with my team.
+      *I took notes of the suggestions that were raised during the presentation.
+      
+      05 Feb 2020
+      *We grouped again into 4 groups, each group has developers and business analysis. they gave us the system that we going to work on 
+	that we going to present at the end of the semester.
+      
+      06 Feb 2020
+      *other groups went for scrum master in building 10. And i left with my team continue with our system.
+     
+      07 Feb 2020
+      *I installed IONIC on my machine
+      *I downloaded the tutorials for IONIC
+       
+       10 Feb 2020
+	*We went to building 10 to meet with our Business analysis and our leader to discuss the requirement of the system and also 
+         select the things that we want them to be full functioning on our first presantation which will be on the 21 Feb 2020.
+
+      11 Feb 2020
+       *Our business analysis come to our office to discuss about the ERD and correct the mistakes that we found on the ERD.
+       *On the second seasion, i started to do the user interface of the login page and signup page.
+
+      12 Feb 2020
+       *We attended the daily stand up to descuss the progress of our system.
+       *I was busy doing the validation of the login page and i was strungling 
+
+      13 Feb 2020
+       * I continued with validation 
+
+      14 Feb 2020
+       *I was still doing the validation.
+      
+      17 Feb 2020
+       *we had a daily stand up the business and developer to discuss about the progress of the system
+        and for those who still busy with their task they had to confirm when will it be done since 
+        the presantation is in the few days.
+       *the progress for my task was 80%.
+       
+       18 Feb 2020
+        *We ha a daily stand up and we found that the only task that is not done is the admin page both the backend and frontend. 
+         we came up with the solution that those who are doing frontend and backend must work together on the admin page.
+
+       19 Feb 2020
+        *i was done with my task and i went to work with the person who was doing admin page.
+
+       20 Feb 2020
+        *We had all-day scrum with the agile 42 people. After we had a meeting with my group.
+
+       21 Feb 2020
+        *i didn't come to wrok.
+
+       24 Feb 2020
+        *i didn't come to work.
+       
+       25 Feb 2020
+        *when i was about to start my task, students start to strike and they chased us out the office.
+
+       26 Feb 2020
+        *it was a day off.
+
+       27 Feb 2020
+        *it was a day off.
+
+       28 Feb 2020
+        *it was a day off.
+       
+       02 March 2020
+        *We meet as a group and discuss the progress of the system. 
+        *I promised the group that i will finish my task(view order history) on the thursday 02:PM.
+
+       03 March 2020
+        *i was working on my task.
+        *it was displaying the information of all customers instead of one customer.
+
+       04 March 2020
+         *Our BA' came to check the progress for my task and i was still strugling to display the information of the customer.
+       
+       05 March 2020
+        *i was working on the task that i was assigned to.
+
+       06 March 2020
+        *for the first session i was searching for help on youtube and it was giving me the errors.
+
+      09 March 2020
+       *i'm was doing my task of customer view order history.
+
+      10 March 2020
+       * i was doing my task even though it was giving me 1 error when i try to fix it i get 24 errors 
+       * at 15:30 we went ot building 10 for with Dr khalima regarding funding issue.
+
+      11 March 2020  
+        * i managed to fix the error and continue to connect it with other pages of the system.
+       
+     12 March 2020
+      *i called one of the front end member to help me with the error that i got when i try to connect
+       or call the other functions.
+
+     13 March 2020 
+      *my task was working but was not displaying as an ios app it display as a system, that's a problem that i still 
+       need to fix on monday. 
+
+     

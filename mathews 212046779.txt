@@ -1,0 +1,143 @@
+			DAILY REPORT
+212046779
+malatji mm
+
+20 January 2020 building 10-g44
+
+INDUCTION DAY
+
+ we were introduced to the ICEP TEAM memebers.
+
+21-january-2020 
+
+-introduction how to apply scrum 
+
+22-january-2020 
+
+Mr Nyambeni(developers leader) introduced to new languages angular.nodejs
+
+23-january-2020
+
+The adminstrator gave us employment forms to fill them.
+
+24-january-2020
+ day off
+
+27-january-2020
+leaders grouped  us and had to come up with an idea of the type of system we want to develope for a period of a week. 
+
+28-januaery-2020
+I had a meeting with my team and we assigned tasks to each member. I was assigned to design a admin backend for our system lost and found application.
+
+29-january-2020
+I managed to create a database for admin and table .
+
+30-january-2020
+we were putting the whole project together by linking all the pages.
+
+31-january-2020
+we managed to link all the pages but  we had problems with connection strings.
+
+3-february-2020
+We had our first presentation.
+
+4-february-2020 
+i was presenting our project together with my team memebers
+
+5-february-2020
+
+I was grouped with my new team and we were given a new system, basically to revamp the ICEP website and add a new functional 
+
+6-february-2020
+
+Teams were called for scrum sessions
+i was learning how to use angular 
+
+7-february-2020
+
+I was watching tutorials for connecting admin page to the database
+
+10-february-2020
+
+-We had our daily stand scrum to discuss the way forward
+
+11-february-2020
+
+-we worked on the system  and watching tutorials to assit.
+
+12-february-2020
+
+-coding the front end of the application page of our admin page  ICEP website
+
+13-february-2020
+
+-coding the front end of the application page of our ICEP website  
+
+14-february-2020
+
+-worked together with my team trying to  create connection stringsto the front and backend
+17-frbruary-2020
+
+-we had our daily  scrum session with group members
+
+18-february-2020
+-we continued workin on our project
+
+19-february-2020
+
+-we worked on our project( connecting the back and front end)
+-our BAs teasted the system
+
+k,due to family commitments20-february-2020
+
+-We had a scrum session / lessons with people from agile 42
+21-february-2020
+
+-THe end of our first sprint
+-We presented our projects to the ICEP leaders
+24-february-2020
+
+-we had our daily scrum and assigned tasks
+25-february-2020
+
+-there were disruptions due to strike
+
+25-february-2020
+
+-we did not report to work due to the strike
+26-february-2020
+
+-we reported to work and our leaders recommended new changes to add to our project(ICEP website)
+27-february-2020
+
+-did not report to work
+
+02-MARCH-2020
+
+-we were trying to compile the back-end and the front-end
+
+03-MARCH-2020
+- we managed to compile few pages with their back_end class
+04-MARCH-2020
+-I was assinged to a new group to create file system
+
+05-MARCH-2020
+-we had our scrum session with a new group to allocate tasks
+
+06-MARCH-2020
+-Some of our colleagues went to the hackathon
+09-march-2020
+-we had a group meeting to discuss the project we are working on(file system)
+
+10-march-2020
+-we had a scrum session and we had to go to lectureres and staff to do research of their quality files system
+11-march-2020
+i did not report to work due to family commitments
+
+12-march-2020
+
+-my team had a scrum session in the morning to assign new tasks
+
+13-march-2020
+
+

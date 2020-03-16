@@ -1,0 +1,116 @@
+213670654 
+Moora Solomon Masetla
+=====================================================================
+Weekly Work Report	ICEP System Report	10.02.2020
+=====================================================================
+
+The following recaps the various ICEP Project area and accomplishments.
+Specific performance indicators that are identified and tracted seperately
+are located at the separete topics found on the Doc.
+
+--------------------------------------------------------------------
+
+	-Started working with ICEP System team today.
+	-Started by cloning the Git invited by Mr Nyambeni.
+	-The clonned git repository was to upload the report on the system that the team ways currently working.
+	-The team has completed a number of topic on the project that a due.
+	-I Mr Masetla was assigned the role of frontend developer for the system.
+	-The objective of today is to build the landing page for the system.
+
+17.02.2020
+REPORT
+========================================================================
+Tuesday 11.02.2020
+	+Continued Work from the scrum session which included
+	-Design of the Login & Register page forms (Using Adobe XD)
+	-
+
+Wednesday 12.02.2020
+	-daily scrum
+	-Created the project On git
+	-created branches and components to work on.
+	-Created register components.
+	-Started coding the register form and styling
+
+Thursday 13.02.2020
+	-Continued to code the frontend 
+	-Made changes to the register form
+	-linked with online DB
+	
+Friday 14.02.2020
+	-daily scrum
+	-Continued on with the frontend.
+ 	-worked together with my team trying to connect the front and backend
+	
+
+
+Monday 17-02-2020
+	-we had our scrum session to discuss the way forward
+	 with in the incomplete task on the first scrum
+	 session
+	 
+Tueday 18-02-2020
+	-Continues work on the other task that could be done.
+	
+Wednesday 19-02-2020
+		-our BAs teasted the system
+		-Got suggestion from the BA's
+		-Took notes 
+Tursday 20-02-2020
+	-We had a scrum session / lessons with people from agile 42
+	
+Friday 21-02-2020
+	-THe end of our first sprint
+	-We presented our projects to the ICEP leaders
+	
+Mondaay 24-02-2020
+	-we had our daily scrum and assigned tasks
+	-continued to on our tasks
+	
+Tuesday 25-02-2020
+	-there were disruptions due to strike
+	
+Wednesday 25-02-2020
+	-we did not report to work due to the strike
+	
+Thurday 26-02-2020
+	-we reported to work and our leaders recommended new changes to add to our project(ICEP website)
+	
+Friday 27-02-2020
+	-Continued work on the website
+
+Monday 02-03-2020
+	-We worked on the system
+	-worked on the frontend with team 
+	
+Tuesday 03-03-2020
+	-I worked on the website with my team trying to connect the back and frontend
+	-failed
+	-worked on the tasks that were left
+
+Wednesday 04-03-2020
+	-Due to team member being shaffled we reassigned tasks.
+	
+Tursday 05-03-2020
+	-We had a test session with the BA"s to see how far this were
+	-we took suggestion as the developer to implement on the system.
+	
+Friday 06-03-2020
+	-Went On the IBM Hackarthon
+	
+Monday 09.03.2020
+	-Did not report to work.
+Tuesday 10.03.2020
+	- Had to resolve regstration 
+	-did not report to work.
+	
+Wednesday 11.03.2020
+	- Had a scrum session
+	- re-assigned tasks
+	- Completed the tasked issued for monday and tuesday
+	
+Thursday 12.03.2020
+	- Contined work on the incomplete tasks
+	
+Friday 13.03.2020
+	- Finilise the incomplete tasks
