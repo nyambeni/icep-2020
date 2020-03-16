@@ -139,3 +139,25 @@
 •	I was coding the validation for register and login.
 •	I didn’t finish it on this day because it was still a research.
 
+09 Mar. 2020
+
+•	In the Morning we firstly had a meeting together with ICEP stuff regarding financial problems.
+•	We chose tasks to do, where each of us was obligated to be a full stack developer.
+•	We then discussed how our interface will be structured using sketches / user stories.
+
+10 Mar. 2020
+
+•	I started to code the landing page Interface.
+•	I also connected the interface to the database.
+
+11 Mar. 2020
+
+•	I added some major functionalities needed on the system.
+
+12 Mar. 2020
+
+•	As a team we overviewed all our interfaces and we had to normalize the redundant data.
+•	We also debugged some errors on our system.
+           13 Mar. 2020
+•	In the morning we did some exercises /Games for an hour.
+•	We then pushed our all our work in preparations for presentations.
