@@ -61,3 +61,59 @@ we went to a SCRUM workshop were we learned about scrum and how to work in teams
 7 February 2020
 
 continued with IONIC RESEARCH 
+
+10 February
+
+We had our daily scrum and planned on the way forward on what  each of us is going to be doing/working on.
+
+11 February
+
+I started doing the landing page for the RMS app using ionic .
+
+12 February
+
+I added a side menu bar with its functionality
+
+13 FebruaryI
+I met with our BAs to help them and discuss with them the wireframes
+	
+14 February
+
+We merged our pages to create a whole project as one thing and we clone it and then pushed it.
+	
+17 February
+
+We had our scrum session ,and as my laptop was giving me problems ,i couldn't load a background picture to my landing page. 
+
+18 - 19 February
+
+I started  with the contact page making sure that the Application resembles the website.
+ 
+20 February
+
+We were finishing up everything to do with the first sprint and trying to make sure that all things are working, we integrated all the pages that each member was working on.
+
+21 February
+
+We  presented the system to the  ICEP team members and also getting feedback on what must happen and what to correct in order for things to go accordingly.
+
+24 Febraury
+
+didnt attend as i was not around.
+
+25 Febraury
+
+i adding functionality to all the buttons on the landing page,and they started to strike 
+
+26 Febraury
+
+the strike continued.
+
+27 Febraury
+
+we had to finish off were we stopped because of the strike.
+
+28 Febraury
+
+We were unable to work due to the protests in and around the campus.
+ 
