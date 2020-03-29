@@ -1,4 +1,4 @@
-LOG_BOOK
+LOG_BOOK(My Report)
 
 
 
@@ -126,3 +126,43 @@ i did research on the image upload APIs and image retrieval
 i continued with implementing the picture upload code together with my team
 
 09 March
+reported for work and carried on with my given task.
+
+10 March
+We had a Daily standup with team members and went to help our Business Analysts with testing APIs.
+
+11 March 
+With some group member we spent the night over at the office and attempt to connect the frontend and the backend
+
+12 March
+I had the day off due to the cross-night.
+
+13 March
+We did some team building and tasks review.
+
+16 March
+Our day was cut short due to health risk
+
+17 March
+For the sake of our health we were told to work from home, i did research regarding my respective  given task 
+
+18 March
+I worked on the information i got to implement the send notification task i was assigned
+
+19 March
+working on testing if the code is able to to send notification which gave me a tough time
+ 
+20 March
+i submited the files i was coding on to git for them to be merged by the master
+
+23 March
+i reviewed the whole code to cover all the gaps
+
+24 March
+was testing the code for updating the customer and the vendor user passwords, pushed to git again then branches were merged.
+
+25 March
+re-testing the whole backend for re-confirmation
+
+26 March
+the project was submitted to the main repository by the master
