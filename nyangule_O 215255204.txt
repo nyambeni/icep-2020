@@ -290,10 +290,41 @@ mergerd the branches and made new master
 16/03/2020 Monday
 we started the day with prayer
 i submitted the daily report
+we dida sprint review to see tasks that are left
+started research for doing view reports
 
 
+17/03/2020 TUESDAY
+i worked fromhome on view reports for the number of customers
+i worked on view number of restaurants
+
+18/03/2020 wednesday
+we worked from home i tested the view report of counting number of customers
+i tested the code of  counting restaurants
+
+19/03/2020 thursday
+i worked on calculating the total number of orders per restaurant
+i worked on testing the code of the total number of restaurants
+
+20/03/2020 friday 
+i worked on calculating the total number of orders of all restaurant
+i tested the code of calculating number of all orders
+i merged the code from other branches from my team-mates
 
 
+23/03/2020 monday 
+i worked on testing the code of last week progress
+i worked on the calculating number of orders per customers
+
+24/03/2020 tuesday
+i merged the branches of my team-mates
+tested the code of calculating total number of customers and
+tested the calculating orders of the customers 
+
+25/03/2020 wednesday
+i tested the back-end to see if it is running after submission
+26/03/2020 thursday 
+tested the code before submitting to the final repository
 
 
 
