@@ -169,4 +169,42 @@ Student Number:216166329
   06 March 2020
   *i implemented buttons for student to apply ,also connected property buttons to backend  in order for students 
    to view registered properties.
+ 
+ 09 March 2020
+  * We meet as a group  and prepared for for presentation 
+ 
+ 10 March 2020
+  *Activities have been suspended due to corana virus
+ 
+ 11 March 2020
+  * We as a group we discussed a way forward since we were faced with corana virus and we could not meet physically.
+ 
+ 12 March 2020
+ * I installed team viewer on my local computer and told all the front end developers to do the same, so that
+  we can keep our work moving at home and help each other/
+ 
+ 13 March 2020
+ *I had  to use jsonplacegolder as our API for getting properties from the database since we are separated as a team due
+  to corona virus
 
+ 16 March 2020
+ * i started to restructure the student profile as Mr Nyambeni requested.
+ *I removed student dash board and implemented its functions inside student profile.
+ *I added styling to student profile and implement all pages linked to student profile such as residence report,
+ apply and residence status. 
+
+ 17 March 2020
+ * I started to add functions to the apply buttons on the student profile.
+ 
+ 18 March 2020
+ *I implemented manage student under landlord profile.
+ * I added buttons like accept application and decline application in order for the lardlord to manage
+  student who applied under his property.
+ 
+ 19 March 2020
+ *I completed the manage student page with all of its functions including buttons.
+ * i implemented the notification message count in order for the landlord to see number of messages that needs his approval.
+ 
+ 20 March 2020
+ *I finished with student apply fuctions by including input box and for the student to upload neccessary documents.
+ *I implented the submit and validation functions and added some styling on the page.
