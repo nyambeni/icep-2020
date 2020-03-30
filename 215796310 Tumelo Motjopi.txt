@@ -129,3 +129,72 @@ started with the following:
 ----------------
 -in the morning ive continued on working in the admin page.
 -Because of strike we were dismissed early.
+
+02 March 2020
+-------------
+-We had a scum session early in the morning were we discussed about the second sprint 
+and 
+03 March 2020
+-------------
+- did research about the sidebar menu and its functionality and implement few of those ideas into our system.
+04 March 2020
+-------------
+- The whole team cross nighted today to make maximum usage of our time and to be effective with the situation of most of the group attending the hackathon and we need to make sure our work is up to date inorder for our team members to present what we done so far.
+05 March 2020
+--------------
+ I was given day off as i worked night shift and also for us to prepare for the hackathon the next day.
+06 March 2020
+-------------
+- Pushed some work related to our System so that my group will have enough work covered to present in the afternoon.
+- As part of the selected team to represent ICEP, we left to sandton IBM to take part in the hackathon for the weekend.
+- We confirmed our attendance there and got our security passes, and were given our problem statement in that session.
+- We performed scrum and divided the work amongst ourselves.
+- We implemented strategies and practices which we were exposed to at ICEP.
+09 march 2020
+- Given day off to rest and recover from the hackathon
+
+10 march 2020
+- i submitted the report about how the hackathon went. Started with the second sprint with our scrum master.
+- new tasks were assigned to us.
+- We met with our B.A to discuss about the new sprint
+11 march 2020
+- I started with the history page of our system.
+12 march 2020
+- continued with the history page and tried to connect with the backend.
+- I had sleepover on this day and had to push on the task given to  me.
+13 march 2020
+- i was absent after the all night work out
+16 march 2020
+- We had to go earlier due to the corona virus saga.
+
+ 17 march
+ --------
+ - had to vacade home dued to public announcement about the corona virus crisis
+ 18 march
+ ---------
+ - due to poor internet connection,my work progress was slow but i manage to push
+ 19 march
+ ---------
+ - While working at working at home i had to complete the front end part of the history page.
+ 20 march
+ ---------
+- Started working remotely with my fellow collegues using teamview to tackle some error we encountered.
+
+March 23
+-I worked on the connection of the search bar with the database. I had to fix errors that ive encountered.
+
+March 24
+-continued with the search bar. I was also busy with the auth gaurds for log in and also for vendor and super admin. Merged the project.
+
+March 25
+- i was busy with the alignment of components on the landing page. I also helped my colleague with the vendor admin task. We worked on getting data from the database.
+
+March 26
+- we connected to teamviewer and continued with the connection(getting data). We started with the "add menu" on the vendor admin page also the admin profile.
+
+March 27
+- Compiled what we had so far and done the merging of all the branches to the master.. tested the project before submittion. Later the project was pushed to leader's repository.
+
+
+
+
