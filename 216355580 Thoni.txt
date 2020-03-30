@@ -108,3 +108,13 @@ Meeting with the BA about what is complete and to be changed
 13 March 2020
 polishing of the upload button what was left was it being pulled by the team member doing the admin page
 End of the day, struggling to finish wishlist, seeking out all resources and help
+
+16 March 2020 - 20 March 2020
+*covid19 lockdown for the whole country so couldnt report to work
+*failed to get and push to backend of the system
+*fell sick during the week couldnt complete further tasks
+
+23 March 2020 - 27 March 2020
+*Started manually extracting products to display in wishlist
+*due date was friday, submitted  but system is not complete
+*extension of due date to next week.
