@@ -78,8 +78,15 @@ I was watching tutorials for uploading files for an application form
 10-03-2020
 -we had a scrum session and we had to go to lectureres and staff to do research of their quality files system
 11-03-2020
--i did not report to work, i was not feeling well
+-i did not report to work
 12-03-2020
 -my team had a scrum session in the morning to assign new tasks
 13-03-2020
--i did not report to work, i was not feeling well
+-i did not report to work
+
+23- Working on the task of deleting a certain lecture from db.
+and update their profile.
+24- Scrum session and assign final tasks
+25- html and css - styling the pages
+26- Im working on the admin and lecturer login pages, testing the code.
+27- Submit the project after our second sprint 
