@@ -87,6 +87,6 @@ I was watching tutorials for uploading files for an application form
 23- Working on the task of deleting a certain lecture from db.
 and update their profile.
 24- Scrum session and assign final tasks
-25- html and css - styling the pages
+25- html and css - styling 
 26- Im working on the admin and lecturer login pages, testing the code.
 27- Submit the project after our second sprint 
