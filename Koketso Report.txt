@@ -161,9 +161,64 @@ We didn't really do anything because there was a strike and we had to leave earl
 -We went to building 10 for Scrum and for the second sprint of our project.
 
 06/03/20
+
 -Went to hackathorn
 
+09/03/20
 
+-reported for work and carried on with my given task.
+
+10/03/20
+
+-We had a Daily standup with team members and went to help our Business Analysts with testing APIs.
+
+11/03/20 
+
+-With some group member we spent the night over at the office and attempt to connect the frontend and the backend
+
+09/03/20
+
+-system introspection. tested all APIs
+
+13/03/20
+
+-We did some team building and tasks review.
+
+16/03/20
+
+-Our day was cut short due to health risk
+
+17/03/20
+
+-For the sake of our health we were told to work from home, i did research regarding my respective  given task 
+
+18/03/20
+
+-I worked on the information i got to implement the send message task i was assigned
+
+19/03/20
+
+-working on testing if the code is able to to send message which gave me a tough time
+ 
+20/03/20
+
+-i submited the files i was coding on to git for them to be merged by the master
+
+23/03/20
+
+-i reviewed the whole code to cover all the gaps
+
+24/03/20
+
+-was testing the code for posts.
+
+25/03/20
+
+-re-testing the whole backend for re-confirmation
+
+26/03/20
+
+-pushed the backend update to master
 
 
 
