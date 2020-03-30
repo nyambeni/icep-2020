@@ -179,3 +179,13 @@
 13/03/20
 
 -connected to database but data was only showing on the console and not the app.
+
+16/03/20 - 23/03/20
+- corona outbreake, we were stopped from work so i was trying to get a affordable ISP
+
+24/03/20 -26/03/20
+-started with manage student page
+-removed a few things which were recommended by a fellow collegue
+
+ 27/03/20
+-looked at the page Tebogo created as it was similar to mine but he used a card instead of a table
