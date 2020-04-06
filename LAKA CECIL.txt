@@ -208,3 +208,39 @@ Student Number:216166329
  20 March 2020
  *I finished with student apply fuctions by including input box and for the student to upload neccessary documents.
  *I implented the submit and validation functions and added some styling on the page.
+
+ 23 March 2020
+ * Due to corona virus and lack of resources such as internet access i couldnt do anything.
+
+ 24 March 2020
+ *I was working from home due to corona virus, i managed to do research to learn new staff from ionic documentation
+
+ 25 March 2020
+ * I had to add some styling to the student profile ,such as removing some borders and doing some final touches and the
+  after i pushed my work on git.
+
+ 26 March 2020
+ * I had to help one of my team member with connection and displaying  the application form recieved by the landlord
+ 
+27 March 2020
+ *I had to update all my team members on my progress and my challenges since some of them cannot contribute due lack of
+ resources
+
+ 30 March 2020
+ * I contacted mr nyambeni for some clarity on the upload part and gave my team a feedback before i can continue further.
+  
+ 31 March 2020
+ *I had to document all the pictures of our system showing all the functions of the system that we have managed to complete 
+  and send it to Mr nyambeni as requested.
+
+ 1 April 2020
+ *I had problem connecting to our database, i contacted our backend to run the server for me only to find out that he doesnt
+ have internet access.As team we have challenges because many of us internet access it is a challenge.
+ 
+2 April 2020
+ *Mr nyambeni told us about  Tres website and told us we must devlop something like Tres website
+ *We had to start again and assign tasks to individual that have internet access.
+ 
+3 April 2020
+ * I satrted to implement the new landing page.
+ * i added the backgroung image , some buttons and styling on the landing page.
