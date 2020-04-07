@@ -323,8 +323,36 @@ tested the calculating orders of the customers
 
 25/03/2020 wednesday
 i tested the back-end to see if it is running after submission
+
 26/03/2020 thursday 
 tested the code before submitting to the final repository
+
+30/03/2020 Monday
+today  i got asssigned to a new group to the help out at the backend
+I got updated on what tasks i have to help in
+
+31/03/2020 Tuesday
+i started to work on populating the database of FOODHUB
+i populated the cart tabel
+01/03/2020 Wednesday
+i started to go through the RMS back-end code and the databaseto see how everything works
+catched upon how far they are and fimiliarise my self with their project
+02/03/2020 Thursday
+ i worked on the RMS project.i worked on reserve API for students
+the api still needs more testing
+03/02/2020 FRiday
+i worked on the FOODHUB to upload multiple files and tested the code
+
+06/02/2020 Monday
+
+i worked on FOODHUB to populate the some tables in the database
+i updated the group leaders on our progress on the project
+we had a whatsapp scrum session
+
+07/02/2020 Tuesday
+ i updated the repo of FOODHUB and the repo of RMS
+
+
 
 
 
