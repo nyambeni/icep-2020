@@ -169,4 +169,78 @@ Student Number:216166329
   06 March 2020
   *i implemented buttons for student to apply ,also connected property buttons to backend  in order for students 
    to view registered properties.
+ 
+ 09 March 2020
+  * We meet as a group  and prepared for for presentation 
+ 
+ 10 March 2020
+  *Activities have been suspended due to corana virus
+ 
+ 11 March 2020
+  * We as a group we discussed a way forward since we were faced with corana virus and we could not meet physically.
+ 
+ 12 March 2020
+ * I installed team viewer on my local computer and told all the front end developers to do the same, so that
+  we can keep our work moving at home and help each other/
+ 
+ 13 March 2020
+ *I had  to use jsonplacegolder as our API for getting properties from the database since we are separated as a team due
+  to corona virus
 
+ 16 March 2020
+ * i started to restructure the student profile as Mr Nyambeni requested.
+ *I removed student dash board and implemented its functions inside student profile.
+ *I added styling to student profile and implement all pages linked to student profile such as residence report,
+ apply and residence status. 
+
+ 17 March 2020
+ * I started to add functions to the apply buttons on the student profile.
+ 
+ 18 March 2020
+ *I implemented manage student under landlord profile.
+ * I added buttons like accept application and decline application in order for the lardlord to manage
+  student who applied under his property.
+ 
+ 19 March 2020
+ *I completed the manage student page with all of its functions including buttons.
+ * i implemented the notification message count in order for the landlord to see number of messages that needs his approval.
+ 
+ 20 March 2020
+ *I finished with student apply fuctions by including input box and for the student to upload neccessary documents.
+ *I implented the submit and validation functions and added some styling on the page.
+
+ 23 March 2020
+ * Due to corona virus and lack of resources such as internet access i couldnt do anything.
+
+ 24 March 2020
+ *I was working from home due to corona virus, i managed to do research to learn new staff from ionic documentation
+
+ 25 March 2020
+ * I had to add some styling to the student profile ,such as removing some borders and doing some final touches and the
+  after i pushed my work on git.
+
+ 26 March 2020
+ * I had to help one of my team member with connection and displaying  the application form recieved by the landlord
+ 
+27 March 2020
+ *I had to update all my team members on my progress and my challenges since some of them cannot contribute due lack of
+ resources
+
+ 30 March 2020
+ * I contacted mr nyambeni for some clarity on the upload part and gave my team a feedback before i can continue further.
+  
+ 31 March 2020
+ *I had to document all the pictures of our system showing all the functions of the system that we have managed to complete 
+  and send it to Mr nyambeni as requested.
+
+ 1 April 2020
+ *I had problem connecting to our database, i contacted our backend to run the server for me only to find out that he doesnt
+ have internet access.As team we have challenges because many of us internet access it is a challenge.
+ 
+2 April 2020
+ *Mr nyambeni told us about  Tres website and told us we must devlop something like Tres website
+ *We had to start again and assign tasks to individual that have internet access.
+ 
+3 April 2020
+ * I satrted to implement the new landing page.
+ * i added the backgroung image , some buttons and styling on the landing page.
