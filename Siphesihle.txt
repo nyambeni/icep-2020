@@ -189,3 +189,6 @@
 
  27/03/20
 -looked at the page Tebogo created as it was similar to mine but he used a card instead of a table
+
+30/03/20-03/04/20
+-Trying to complete AWS
