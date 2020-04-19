@@ -333,24 +333,61 @@ I got updated on what tasks i have to help in
 
 31/03/2020 Tuesday
 i started to work on populating the database of FOODHUB
-i populated the cart tabel
+i populated the cart table
 01/03/2020 Wednesday
 i started to go through the RMS back-end code and the databaseto see how everything works
 catched upon how far they are and fimiliarise my self with their project
 02/03/2020 Thursday
  i worked on the RMS project.i worked on reserve API for students
 the api still needs more testing
-03/02/2020 FRiday
+03/04/2020 FRiday
 i worked on the FOODHUB to upload multiple files and tested the code
 
-06/02/2020 Monday
+06/04/2020 Monday
 
 i worked on FOODHUB to populate the some tables in the database
 i updated the group leaders on our progress on the project
 we had a whatsapp scrum session
 
-07/02/2020 Tuesday
- i updated the repo of FOODHUB and the repo of RMS
+07/04/2020 Tuesday
+
+i updated the repo of FOODHUB and the repo of RMS
+
+08/04/2020 Wednesday
+
+did more research on the RMS project
+
+09/04/2020 thursday
+worked on search api for the RMS backend.
+added the capacity,campus_loc attributes to the property table so we can see if full or not full
+
+10/04/2020 Friday
+worked on AWS and finished the second course
+
+13/04/2020 Monday
+worked on the view all properties for the RMS project
+14/04/2020 Tuesday
+tested the API to view all properties 
+
+15/04/2020 Wednesday
+worked on calculating the total amount of orders in the database
+before we frontend developers connect
+
+16/04/2020 Thursday
+tested the api for calculating the total amount of orders
+populated the cart and orders table in the database
+RMS project i gave them the API for viewing all the properties 
+
+17/04/2020 Friday
+
+we had a whatsapp scrum session for kasi Foodhub 
+we planed for new sprint 
+i was assigned to do the extras and option backend for customer
+worked with the RMS group trying to connect the front end to the backend
+
+18/04/2020 saturday
+
+started to redo most of the things in the RMS backend to match the T-Res front-end system. 
 
 
 
