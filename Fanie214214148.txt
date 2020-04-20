@@ -90,3 +90,18 @@ and update their profile.
 25- html and css - styling 
 26- Im working on the admin and lecturer login pages, testing the code.
 27- Submit the project after our second sprint 
+
+(30-03)-04-2020
+-we were given a break by the leaders to rest
+(06-10)-04-2020
+-our business administrators came up with new task from the backlog and we started working.
+13-04-2020
+-I validated the login page for the lecturer
+14-04-2020
+-I validated the login page for the administrator 
+15-04-2020
+-working on the administrator dashboard ,to add code to add staff numbers to the database
+16-04-2020
+-New task, enable administrator to search for a lecturer using staff number, name, email and registration date
+17-04-2020
+-push my work so that the team leader can merge the project
