@@ -192,3 +192,19 @@
 
 30/03/20-03/04/20
 -Trying to complete AWS
+
+06/04/20-10/04/20
+
+-laptop crashed
+-checking group updates
+-reseting laptop,installing files
+
+13/04/20-14/04/20
+-Started with manage provider page
+
+15/04/20-16/04/20
+-connected with random API to test connection
+-able to delete profiles
+
+17/04/20
+-pushed code to git
