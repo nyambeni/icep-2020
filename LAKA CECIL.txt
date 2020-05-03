@@ -244,3 +244,58 @@ Student Number:216166329
 3 April 2020
  * I satrted to implement the new landing page.
  * i added the backgroung image , some buttons and styling on the landing page.
+
+6 April 2020
+*I contacted my team to discuss our progress and a way forward.
+*I was  also given new tasks to complete within a week
+
+7 April 2020
+*I continued on being busy with the landing page adding some finishing touch of styjling using css.
+8 April 2020
+* I started a new task which was to create ion -menu bar for navigation in our landing page.
+* I also added some styling to ion- menu bar on the landing page
+9 April 2020
+* I reviewed our system as a whole to fix some errors and i gave feedback to our team.
+ 
+10 April 2020
+* I contacted Tumelo from Kasi Food hub for the help to implement search menu.
+* I struggled with search menu ,so i made more research on the matter.
+
+11 April 2020
+*I recorded the video of our system for presentation purpose and sent the video to our supervisor Mr nyambeni
+
+
+13 April 2020
+*I contacted my team to discuss our progress and a way forward.
+*I had to help one of my team with data validation.
+14 April 2020
+* added some changes to help my team mate to design the correct input bar simillar to TRES website using css
+ ,angular and ionic framework.
+15 April 2020
+*This day i had to implement a functions to connect landing page with landing page backend
+in order for our system to display a list of properties on our new landing page.
+16April 2020
+* I had to take pictures of our entire system and send it to nyambeni for documentation. 
+17April 2020
+*my team mate had a problem with the code to connect registration page with the backend ,so i had to take over
+her task since we were the only two of us working our project due to corona virus.
+
+20 April 2020
+*I contacted my team to discuss our progress and a way forward.
+*I was  also given new tasks to complete within a week
+21 April 2020
+*I recieved TRES dashboard documentation, so i started to implement student dashboard using Angular,css and
+ ionic
+22 April 2020
+*There was some changes on  TRES website landing page , so i had to add those changes on our mobile 
+ application of TRES.
+*I implemented the side menu for student dashboard and student profile and also implemented functions 
+ for those two menus
+23 April 2020
+*I implemented student profile for students to use in order to update their profile and be able to apply for 
+ accomodiation
+24 April 2020
+* I added some finishing touch to all the pages i was working on using css styling.
+
+25 April 2020
+* I had to check our overoll system for errors and mistakes in order to prepare for presentation on monday.
