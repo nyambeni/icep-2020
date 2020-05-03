@@ -181,8 +181,8 @@ for my backend and coding.
  03 March 2020
 ---------------
 -> used git for cloning my our project and started with my work
--> I and BEE we busy with the login code , including web token and authorization,we managed to finish up 
-  the code with web token
+-> I and BEE we busy with the login code , including  jsonwebtoken and authorization,we managed to finish up 
+  the code with jsonwebtoken
 
 -> after coding we then pushed our work to git, committed it and pushed it to my origin
 
@@ -226,8 +226,8 @@ for my backend and coding.
  11 March 2020
 ---------------
 -> used git for cloning my our project and started with my work
--> carried on with login code and i had to make changes from the token i included.
--> started doing research on including session on my login instead of a token
+-> carried on with login code and i had to make changes from the jsonwebtoken i included.
+-> started doing research on including session on my login instead of a jsonwebtoken
 -> downloaded and gathered more information bason on the login back-end
 -> gathered information on php, managed to  register a user and login ,using mysql for database.
 -> after coding we then pushed our work to git, committed it and pushed it to my origin
@@ -253,7 +253,121 @@ for my backend and coding.
  16 March 2020
 ---------------
 -> used git for cloning my our project and started with my work
--> started working with Themba on changing the login vode from token to session , 
-  since we found that token is cousing problems when we want to connect with our fron-end
+-> started working with Themba on changing the login vode from jsonwebtoken to session , 
+  since we found that jsonwebtoken is cousing problems when we want to connect with our fron-end
 -> 
 -> after coding we then pushed our work to git, committed it and pushed it to my origin
+
+ 17 March 2020
+---------------
+-> due to covid-19 and the lockdown, we were adviced and told to stay home,
+-> started to research more about node js 
+-> saw different kinds of backend codes and i had to make sure i know more different kinds codes
+
+ 18 March 2020
+---------------
+-> started to do changes , since my backend understanding improved 
+-> started to compare most of my backend task code to the new understanding
+  and  started applying them.
+-> even went more further on my reseach and gaining more knowlegde on node js
+
+ 19 March 2020
+---------------
+-> started most of my coding all over in order for me to be sure i understand backend
+-> started changing the registration which looked different from the one we used on our system
+-> started using postman to check whether its working properly.
+-> it gave me few problems but managed to fix all the errors occured
+
+
+ 20 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> even though the registration part was not part of my task, i did it and pushed 
+  it back to git
+
+
+ 23 March 2020
+---------------
+-> used git for cloning my our project and started with my work
+-> started checking most of my codes if they are working properly and
+  how it is expected , does it give back the expected results
+
+
+ 24 March 2020
+---------------
+-> since well i knew that our login back code didnt want to connect i started all over
+-> made changes since the the previous code didnt want to login, the variable from
+postman didnt want to work , but worked when i gave the initials viarables inside the login API
+-> made changes till it accepts all viarables from the postman since i also added role , 
+-> the webtoken was working perfactly too, and the postman gave back the correct results 
+ 
+ 25 March 2020
+---------------
+-> started with my aws certificate, which i want to complete them before the end of the lockdown
+-> started with my first certificate which was Data Scientist, and did all assignments and completed it
+-> obtained my first certificate
+ 26 March 2020
+---------------
+
+-> started with my second certificate which was Data Integration Specialist
+-> completed all my assignments and obtained my second certificate
+-> started my own system using nod js, mysql  for backend code
+-> took all steps needed to plan a system
+
+ 27 March 2020
+---------------
+
+-> started with my second certificate which was Web Development Engineer, Solutions Architect
+-> completed all my assignments and obtained my third and forth certificate
+-> started creating my own database in mysql and saved it
+
+
+ 30 March 2020
+---------------
+-> did more research on why we have to install packages in node js
+-> started creating directories, and routes 
+-> started creating my server
+
+ 31 March 2020
+---------------
+-> carried on with my certifcates, completed all my assignments on Cloud Computing 101
+-> started connection my database and node js
+-> which was successfull and include all packages required at that moment
+
+
+ 1 April 2020
+---------------
+-> started my coding and noticed that there are many ways of deleting a user,single user
+and many more , tried understanding them more and more
+-> started with my first code of adding a new user, registration
+
+  
+ 2 April 2020
+---------------
+-> carried on with my code of adding a user , and tested it with my postman,
+->it saved all the data intomy database as expected 
+-> started doing my login code , which gave me problems but managed to fix it.
+-> my registration code and login worked very well , including my jsonwebtoken
+
+ 3 April 2020
+---------------
+
+
+ 6 April 2020
+---------------
+
+
+ 7 April 2020
+---------------
+
+
+ 8 April 2020
+---------------
+
+
+ 9 April 2020
+---------------
+
+
+ 10 April 2020
+---------------
