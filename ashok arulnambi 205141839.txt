@@ -106,4 +106,130 @@ In the morning ive continued on working in the tutorials and starting to get a b
 16 march 2020
 Came to work inspite of the president declaring emergency when addressing the country last night. 
 
+17/03/2020
+- Mr Godi officially sent us the institution's letter which called for us to remain and work from home due to the Corona global pandemic due to the national lockdown. 
 
+- This affected all that we had planned so far and required us to re-think and figure out how this is going to work out in our best intrests.
+
+- I had to relocate to a safe area for the lockdown period prior to commencement.
+
+18/03/20
+- I reviewed the sprint on my own to see how far we were overall
+
+19/03/2020
+- watched some tutorials on some of the concepts as i was having a hard time to tackle admin part alone.
+
+20/03/2020
+- contacted and started working remotely with my fellow collegues using teamview to tackle some error we encountered on each others parts.
+
+March 23
+- fixed some errors and modified some things from the overall system 
+
+March 24
+- continued working on planning what all i can add for the vendor admin that would make it useable and informative enough for the vendor admin who will be using the system and designed the vendor admin albeit yet as a work in progress.
+
+March 25
+- worked remotely with my colleague related to vendor admin task via team viewer. We worked on getting data from the database through some connections between the front end and backend
+
+March 26
+- we connected to teamviewer and continued with the connection(getting data). We started with the "add menu" on the vendor admin page also the admin profile but profile proved tricky and we could not manage this part yet
+
+March 27
+- Compiled what we had so far and done the merging of all the branches to the master.. tested the project before submission. Later the project was pushed to leader's repository Mr Mpho Nyambeni.
+
+- our project was not at all complete to meet this deadline as we were short of resources and thus far been working with the few hands on deck. The lockdown is really affecting our productivity.
+
+March 29 Sunday
+- Merged all the log book branches into the repo upon request of my mentor Mr Mpho Nyambeni
+
+March 30
+- sent screenshots of our system to the leadership as per their request.
+- they also instructed us to remove hard codes from our system.
+
+March 31
+- Watched some tutorials related to the concepts of connections
+
+April 1
+- worked with a member from the backend to fix and clarify some of the api related configurations
+
+April 2 - April 4
+- Had issues with my internet due to heavy rains in the area  
+
+April 5
+- Merged all the log book branches into the repo upon request of my mentor Mr Mpho Nyambeni
+
+April 6
+- Restaurant admin not done yet, some of our front end don't match with back end. Again had to work with a member from the backend to clarify some things via remote view.
+
+April 7
+- Worked in assisting my colleague to help them set their development environment at their home via remote view.
+- This proved difficult and slow due to unreliable internet and my colleague's data had finished so we couldnt complete this process.
+
+April 8
+- Continued watching some tutorials and this time i was coding while watching. Made some improvements on my existing vendor dashboard
+
+April 9
+- Got a total mind block about the daunting task of the system with minimal help and decided to shift my focus for a change and completed an AWS course that is part of the requirements compulsorily to complete in order to pass this internship.
+
+April 10
+- Completed Another AWS course 
+
+April 12 Sunday
+- Merged all the log book branches into the repo upon request of my mentor Mr Mpho Nyambeni
+
+April 13
+- Got back to working on the vendor admin, created the modal page of the profile of admin
+
+April 14
+- Worked on trying to connect with my colleague
+
+April 15
+- Assisted my other colleage with trying to pass data but this proved challenging and we were not able to find a way past this problem.
+
+April 16
+- We held a scrum meeting with the people that were available on deck and gave updates and decided on how we will be moving forward and what all is remaining from the existing sprint which we having difficulty with.
+- Super Admin was decided that we will break it among myself and my other colleague to tackle it as a pair since we have few people working in our group.
+
+April 17
+- I was ill with severe migraines but was able to give some work output. 
+- We were requested to send a clip form presentation of our system which is to be accompanied by a clip of our BA speaking.
+- I made a presentation form of our system and submitted to the group before asking to be excused from work to rest and recover.
+
+April 20
+-Started doing some research about the CapitalPark project which we were assigned for those who attended the hackathon at IBM
+- angular needed some brushing up on some key concepts which i am still shaky about.
+
+April 21
+-Did some online course of AWS amazon
+
+April 22
+- Watched some tutorials for angular
+- found some project samples to refer to for the CapitalPark project
+
+April 23
+- we were assigned a new developer to the team
+- we also had scrum meeting for our progress of our sprint 2, my task was still not completed
+- I am facing challenges with reading from the backend of project
+
+April 24
+- leadership checked how many of us are active and able to contribute in project work by taking a roll call of all those who had internet and facilities.
+- By today my task was done about 70 percent, regarding vendor admin.
+- Worked with my colleague to get some assistance via remote working online.
+
+April 28
+- Worked remotely with my new colleague to walk him thorough our project to show our current progress
+- explained to him some of the tasks which he can assist with in areas where we need assistance.
+- shared with him some of the tutorials for his self learning and further enquiries.
+
+April 29
+- again cross nighted with my new colleague, via online remote working
+- helped further clear his doubts and made him familiar with our codes  and structure of angular
+- we worked together on the vendor admin
+
+April 30
+- Worked remotely with my colleague 
+- worked on the vendor admin charts
+- watched tutorials on how to connect real time data of charts
+
+May 4
+-
