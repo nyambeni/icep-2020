@@ -385,9 +385,135 @@ we planed for new sprint
 i was assigned to do the extras and option backend for customer
 worked with the RMS group trying to connect the front end to the backend
 
-18/04/2020 saturday
+20/04/2020 Monday
 
 started to redo most of the things in the RMS backend to match the T-Res front-end system. 
+
+21/04/2020 Tuesday
+worked on testing the RMS project.
+
+22/04/2020 Wednesday 
+started with the student dashboard T-res system
+
+23/04/2020 Thursday 
+
+worked on the login and registration of Student in student dashboard
+
+24/04/2020 Friday
+
+tested the login and registration of Students.
+
+27/04/2020 Monday
+
+reviewed work that was done by my Team-mates.
+
+28/04/2020  Tuesday
+
+worked on Vendor admin on the Kasi-Food hub system.
+megeerd the work from my team-mate the landord dashboard.
+pushed the work to Git and  Mr Nyambenis Github.
+
+29/04/2020 wednesday 
+
+tested the code on Kasi-food hub system.
+
+04/05/2020 Monday
+
+i worked on the database on T-res system (RMS).
+
+05/05/2020 Tuesday
+
+i carried on working on the database T-res system (RMS).
+
+06/05/2020 Wednesday
+
+i worked on the the update profile of the t-res system (RMS)
+
+07/05/2020 Thursday
+
+i worked on the update profile on the T-res system (RMS).
+
+08/05/2020 Friday
+
+i tested the update the details of the profile T-res system(RMS).
+
+11/05/2020 Monday
+
+i worked on updating the student dashboard on update  T-res system (RMS).
+
+12/05/2020 Tuesday
+
+i worked on updating student medical aid details on (RMS).
+
+13/05/2020 Wednesday 
+
+i tested the code for the student details and Medical aid deatails T-res system(RMS).
+
+
+14/05/2020 Thursday
+
+i worked on view all student  on T-res(RMS).
+
+15/05/2020 Friday 
+
+i worked on view specific student details on T-res system(RMS)
+
+18/05/2020 Monday
+
+i tested the code for viewing all students and viewing  specific student on T-res sytem(RMS).
+
+19/05/2020 Tuesday
+
+made changes on the student dashboard.
+
+20/05/2020 Wednesday
+
+merged the files and pushed to github.
+
+21/05/2020 thursday
+
+started research on how to display student rooms.
+
+22/05/2020 Friday 
+
+made few attempts on how to display student rooms from different tables.
+23/24
+
+25/05/2020 Monday 
+i worked on viewing student room.
+
+26/05/2020 Tuesday
+
+i carried on working on viewing student room.
+
+27/05/2020 wednesday
+
+i tested the code of viweing student room.
+
+28/05/2020 Thursday
+
+i worked on viewing the student room.
+(still not done)
+
+29/05/2020 Friday
+
+i worked on student reports ( to view how many students).
+ it needs testing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
