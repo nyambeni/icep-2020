@@ -123,20 +123,103 @@ and update their profile.
 24 April 2020
 -I asked the new team to add me to the respective platforms for working on the system and no one responded
 
-27 May 2020
+27 April 2020
 -Seeng that no one in the group was willing to respond to me, i requested to be moved by one of the leaders to another group
 -I was moved to a group i previously worked with icep website
 
-28 May 2020
+28 April 2020
 
 -The backend of the icep website i complete so i joined those working with the frontend of the website
 - I am working on the frontend of the system
 
-29 May 2020
+29 April 2020
 - I am working on the frontend of the system
 
-30 May 2020
+30 April 2020
 - I am working on the frontend of the system
 
-01 May 2020
--I was working on the frontend of the icep website
+01 May 2020 -I was working on the frontend of the icep website
+04 May 2020 - Merging the project and push to git
+05 May 2020 - Improving the projects page
+06 May 2020 - CSS
+07 May 2020- working on the app.module.ts
+08 May 2020 - json file
+
+
+11 May 2020 -json file and app.module.ts
+12 May 2020 - I couldnt work because of resources(data)
+13 May 2020 - Adding more CSS 
+14 May 2020 - Adding CSS to the home page
+15 May 2020 - I do not have data
+
+
+18 Going through the work to correct errors
+19 improving the login page
+20 create a .js file for the database connection 
+21 trying to connect the frontend and the backend
+22 adding the backend code for the login page
+
+25 pushing to git
+26 Group discussion about the project 
+27 Creating the backend code for the application page
+28 working on the backend code for the application page
+29 Testing the functionality of the pages
+
+01 June 2020 - adding CSS to the login page
+02 Meeting with the team
+03 creating a backend for registration page
+04 Working on the database
+05 Adding admin to the database
+
+08 to 10 June did not have data
+11 adding CSS to the pages
+12 working on the interface 
+
+15 working on the backend
+16 working on the backend
+17 adding objects to the .js files
+18 could not work
+19 pushing to git to merge
+
+22 pull the merged project from git and trying different designs
+23 designing the page
+24 adding functionality to the login page
+25 adding functionality to the login page
+25 backend work
+26 database design improvement
+
+29 adding tables to the database and creating new attributes 
+30 Took a break from work
+
+01 July 2020 working on the user interface 
+02 working on the user interface 
+03 working on the interface 
+
+06-27 I could not do much because of resources, the electricity transformer for my block exploded and it took a long time to fix.
+28 I was going through the project to correct errors
+29 I continued to work on the backend of the website
+30 login page and admin login page
+31 admin login page and application page backend improvement
+
+03 August 2020 - adding modules to be able to use Express and adding code in the backend to use express
+04-07 working on the backend and adding .js files to add fumctionality
+
+10 lack of resources (data)
+11 we were all working on improving the frontend of the website
+12 more CSS for the interface
+13 contacts page and about us page
+14 working on the services page
+
+17 I had issues connecting the frontend and the backend 
+18 I tried using the HttpClient to get and post data from and to the database 
+19 I tried using the Router to get and post data from and to the database
+20 more work o  the login and registration pages
+21 Presentation day
+
+24 Adding more CSS
+25 Adding more CSS
+26 Working on the dashboard for the user and admin
+27 Working on the dashboard for the user and admin then push to git
+28 Final presentation
+
+
